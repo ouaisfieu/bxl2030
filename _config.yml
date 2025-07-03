@@ -19,6 +19,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache   # ← indispensable pour {% include_cached %}
+  - jekyll-paginate         # pour la pagination
+
 
 markdown: kramdown
 
