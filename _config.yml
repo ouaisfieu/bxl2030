@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache   # ← indispensable pour {% include_cached %}
 
 
 navigation:
