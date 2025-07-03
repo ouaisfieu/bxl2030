@@ -4,7 +4,7 @@ url: "https://ouaisfieu.github.io"
 baseurl: "/bxl2030"    # ← Laisse vide si le site est à la racine (GitHub Pages utilisateur)
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
+minimal_mistakes_skin: "air" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -34,36 +34,16 @@ defaults:
       layout: single
       author_profile: false
 
-# Auteur par défaut (à personnaliser)
 author:
   name   : "ouaisfi.eu"
   avatar : "/assets/img/avatar.png"
   bio    : "Curieux·se."
 
-# Réseaux sociaux (facultatif)
-social:
-  name: Ton Nom
-  links:
-    - https://github.com/USERNAME
-    - https://bsky.app/profile/USERNAME.bsky.social
 
-# SEO & open graph
+
 seo:
   type: Website
   name: "Bxl2030"
   description: "Du contenu à revoir d'urgence"
-  #  twitter:
-    #  username: "@TonPseudo"
-    #  card: summary_large_image
-
-# Google Analytics (facultatif)
-# google_analytics: ""
-
-# Licence
 copyright: "© Dont'be evil, just do it ©"
 
-# Collection tutoriel (optionnelle si navigation dédiée)
-collections:
-  tutorial:
-    output: true
-    permalink: /tutorial/:path/
