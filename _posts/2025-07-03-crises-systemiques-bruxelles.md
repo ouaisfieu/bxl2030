@@ -13,6 +13,7 @@ excerpt: ""
 
 ---
 
+![Bxl by Night](https://dl.ouaisfi.eu/images/captures/bxl2042.jpg)
 
 ## Montée de la violence liée au trafic de drogue et **ghettoïsation** de quartiers
 
