@@ -93,11 +93,3 @@ Un État qui fonctionne sur le mode "par défaut", jusqu’au moment où une cri
 > Ce sont ses restes qui **n’ont pas encore été réclamés**.
 
 ---
-
-**À consulter ensuite :**  
-[[Dossier Belgique 2013–2020]], [[Fiche N-VA & crise communautaire]], [[Hub - Crise & Résilience]], [[Fiche Abstention & Méfiance]], [[Carte des structures administratives belges]]
-
----
-
-
-liens: [[Chronologie falsifiée]], [[Dossier Belgique 1984–1996]], [[Dossier Belgique 2013–2020]], [[Fiche Affaire Dutroux]], [[Hub - Justice & Impunité]], [[Hub - Résilience & Rupture]]
