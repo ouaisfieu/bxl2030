@@ -41,7 +41,8 @@ Tout se fait depuis l’**interface web de GitHub**, en quelques clics.
 
 ### 📚 Pages de tutoriel
 
-- Ajouter une page : [Créer un fichier dans `/tutorial`](https://github.com/ouaisfieu/bxl2030/new/main/tutorial)
+- Ajouter une page : [Créer un fichier dans `/tutorial`]
+  [https://github.com/VOTRE PSEUDO ICI/bxl2030/new/main/tutorial)
 - Exemple :
 
 ```markdown
@@ -54,3 +55,58 @@ permalink: /tutorial/02-nouvelle-etape/
 # Ma deuxième étape de tutoriel
 
 Texte ici.
+
+```
+
+### 📰 Article de blog
+
+- Ajouter un article : [Créer un fichier dans `_posts`]
+- Nommer le fichier comme ceci : `2025-07-03-nom-de-votre-article.md`
+
+**Exemple** :
+
+```markdown
+---
+title: "Un premier article"
+layout: single
+date: 2025-07-03
+categories: [blog]
+---
+
+Voici un article de démonstration.
+```
+
+---
+
+### 🛠 Personnalisation
+
+Modifiez le fichier [`_config.yml`] pour :
+
+- changer le **titre** du site  
+- ajouter vos **liens de navigation**  
+- modifier le **skin** (couleurs prédéfinies)  
+- définir vos **informations d’auteur**
+
+---
+
+### 📎 Ressources utiles
+
+- 📘 Documentation du thème Minimal Mistakes :  
+  👉 [https://mmistakes.github.io/minimal-mistakes/docs/](https://mmistakes.github.io/minimal-mistakes/docs/)
+
+- 📘 Guide GitHub Pages :  
+  👉 [https://pages.github.com/](https://pages.github.com/)
+
+---
+
+## 🧾 Licence
+
+Ce site est diffusé sous **licence libre à usage non commercial**, sans obligation de mentionner la source.  
+Vous pouvez copier, modifier et partager le contenu, **tant que vous ne l'utilisez pas à des fins commerciales**.
+
+---
+
+**Bon travail et bonne découverte de Jekyll !**
+
+
+
