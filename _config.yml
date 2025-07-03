@@ -38,6 +38,13 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
+      toc: true
+      header:
+        overlay_image: /assets/img/bxl-header.jpg
+        overlay_filter: "0.3"
+        caption: "Bruxelles 2030 — entre brume et ruines"
+      
+      
   - scope:
       path: "tutorial"
       type: pages
@@ -71,7 +78,4 @@ social:
   
 copyright: "© Dont'be evil, just do it ©"
 
-header:
-  overlay_image: /assets/img/bxl-header.jpg
-  overlay_filter: "0.3"   # Ajuste l'opacité sombre (0 = transparent, 1 = opaque)
-  caption: "Bruxelles 2030 — entre brume et ruines"
+
