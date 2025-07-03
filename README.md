@@ -3,52 +3,54 @@ Du contenu à revoir d'urgence
 
 # 🌱 Template Jekyll Minimal Mistakes – Site prêt à l’emploi
 
-Bienvenue ! Ce dépôt est un **modèle de site web statique** basé sur [Jekyll](https://jekyllrb.com) et le thème [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), conçu pour être **simple à utiliser** même si vous n’avez **aucune expérience en code**.
+Bienvenue dans ce **template prêt à l’emploi** pour créer un site web statique avec [Jekyll](https://jekyllrb.com) et le thème [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
+
+🎯 Ce dépôt est conçu pour être **simple à prendre en main**, même si vous n’avez **aucune connaissance en code**.  
+Tout se fait depuis l’**interface web de GitHub**, en quelques clics.
 
 ---
 
 ## ✨ Ce que vous pouvez faire avec ce template
 
-- Créer **votre propre site personnel ou associatif**
-- Ajouter des **pages, articles et tutoriels** en quelques clics
-- Publier un site **entièrement gratuit** avec [GitHub Pages](https://pages.github.com/)
-- Modifier tous les contenus via **l’interface web GitHub**, sans rien installer
+- Créer **votre propre site web gratuit** (blog, projet, CV, tutoriel…)
+- Ajouter du contenu (pages, articles, tutoriels) sans logiciel à installer
+- Personnaliser l’apparence (titre, couleurs, menu…)
+- Publier avec **GitHub Pages**, automatiquement
 
 ---
 
 ## 🚀 Démarrer en 3 étapes
 
-1. Cliquez sur **[Use this template](https://github.com/ouaisfieu/bxl2030/generate)** pour créer votre propre version du site  
-2. Allez dans l’onglet **Settings → Pages**, puis :
+1. Cliquez sur **[Use this template](https://github.com/ouaisfieu/bxl2030/generate)** pour créer votre propre copie du site  
+2. Dans votre nouveau dépôt :
+   - Allez dans **Settings → Pages**
    - Branche : `main`
    - Dossier : `/ (root)`
    - Cliquez **Save**
-3. Attendez quelques secondes… votre site est en ligne ! L’URL apparaît juste au-dessus du bouton « Save ».
+3. Votre site sera visible à l’adresse :  
+   ➜ `https://votre-nom.github.io/votre-depot/`
 
 ---
 
-## ✍️ Modifier le site
+## ✍️ Modifier le contenu
 
-Tout se fait en ligne. Voici les principales actions :
+### 🏠 Page d’accueil
 
-### 📝 Modifier la page d’accueil
-1. Cliquez sur `index.md`
-2. Cliquez sur le bouton **Edit (crayon)** en haut à droite
-3. Modifiez le contenu
-4. Cliquez **Commit changes**
+- Fichier : [`index.md`](index.md)
+- Cliquez sur le crayon ✏️ pour l’éditer et changer le texte d’accueil
 
-### ➕ Ajouter une page de tutoriel
-1. [Créer un nouveau fichier dans `/tutorial`](https://github.com/USERNAME/REPO/new/main/tutorial)
-2. Nommez-le comme ceci : `03-nom-de-la-page.md`
-3. Copiez ce modèle de départ :
+### 📚 Pages de tutoriel
+
+- Ajouter une page : [Créer un fichier dans `/tutorial`](https://github.com/ouaisfieu/bxl2030/new/main/tutorial)
+- Exemple :
+
 ```markdown
 ---
-title: "Titre de la page"
+title: "02 – Nouvelle étape"
 layout: single
-permalink: /tutorial/03-nom-de-la-page/
+permalink: /tutorial/02-nouvelle-etape/
 ---
 
-# Titre visible
+# Ma deuxième étape de tutoriel
 
-Contenu ici.
-
+Texte ici.
