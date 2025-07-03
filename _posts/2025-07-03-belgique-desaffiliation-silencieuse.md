@@ -1,5 +1,5 @@
 ---
-title: "Belgique - décennie 90"
+title: "Belgique 2013–2020 : La grande désaffiliation silencieuse"
 
 header:
   overlay_image: /assets/img/bxl-header.jpg
