@@ -14,6 +14,7 @@ excerpt: ""
 
 ---
 
+![80s](https://dl.ouaisfi.eu/images/captures/80s.jpg)
 
 ## Éducation civique
 
