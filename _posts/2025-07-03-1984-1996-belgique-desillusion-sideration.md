@@ -14,9 +14,9 @@ classes: wide
 
 ## I. 1984--1989 : L'après-choc et la fausse accalmie
 
-### \> La CCC s'éteint... le malaise s'installe.
+### \> Les CCC c'est ciao... le malaise s'installe.
 
-- **1985** : attentats meurtriers de la **CCC** (Cellules Communistes Combattantes) contre la gendarmerie et des installations économiques. Réaction sécuritaire forte. Fin des actions en 1985 après arrestations.
+- **1985** : attentats meurtriers des **CCC** (Cellules Communistes Combattantes) contre la gendarmerie et des installations économiques. Réaction sécuritaire forte. Fin des actions en 1985 après arrestations.
 - Les **Tueurs du Brabant** terrorisent le pays (1982--1985), sans qu'aucune autorité n'éclaircisse les faits. L'affaire reste **non résolue**. Soupçons d'**infiltration d'État**, de manipulation politique, voire de "stratégie de la tension".
 - **Plan Globaal** (Martens VIII) : rigueur économique, privatisations, et recul de l'État providence.
 - **1988--89** : grande **réforme de l'État**, création des **trois Régions** (Flandre, Wallonie, Bruxelles-Capitale). La Belgique devient **un État fédéral**, mais sans vision d'un destin commun.
