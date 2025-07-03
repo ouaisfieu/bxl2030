@@ -3,7 +3,7 @@ description: "Du contenu à revoir d'urgence"
 url: "https://ouaisfieu.github.io"
 baseurl: "/bxl2030"    # ← Laisse vide si le site est à la racine (GitHub Pages utilisateur)
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "dark" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
 plugins:
   - jekyll-feed
