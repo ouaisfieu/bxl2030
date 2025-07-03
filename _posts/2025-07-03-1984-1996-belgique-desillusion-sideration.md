@@ -9,7 +9,6 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-
 ---
 
 
