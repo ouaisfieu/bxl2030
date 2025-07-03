@@ -42,7 +42,7 @@ defaults:
       header:
         overlay_image: /assets/img/bxl-header.jpg
         overlay_filter: "0.3"
-        caption: "Bruxelles 2030 — entre brume et ruines"
+        caption: "Entre brume et ruines"
       
       
   - scope:
