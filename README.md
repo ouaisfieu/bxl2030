@@ -18,7 +18,7 @@ Bienvenue ! Ce dépôt est un **modèle de site web statique** basé sur [Jekyll
 
 ## 🚀 Démarrer en 3 étapes
 
-1. Cliquez sur **[Use this template](https://github.com/USERNAME/REPO/generate)** pour créer votre propre version du site  
+1. Cliquez sur **[Use this template](https://github.com/ouaisfieu/bxl2030/generate)** pour créer votre propre version du site  
 2. Allez dans l’onglet **Settings → Pages**, puis :
    - Branche : `main`
    - Dossier : `/ (root)`
@@ -51,3 +51,4 @@ permalink: /tutorial/03-nom-de-la-page/
 # Titre visible
 
 Contenu ici.
+
