@@ -6,7 +6,7 @@ subtitle: "Un site de départ, libre et prêt à transformer"
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
-  caption: "Bruxelles 2030 — entre brume et ruines"
+  caption: "Entre brume et ruines"
     
 ---
 
