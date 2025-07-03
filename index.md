@@ -7,10 +7,12 @@ subtitle: "Un site de départ, libre et prêt à transformer"
 
 # 🗺️ BXL2030 — Un point de départ réutilisable
 
-Ce site constitue un **modèle libre** permettant de créer un espace web personnel, collectif ou citoyen :  
-modulable, publiable gratuitement via GitHub Pages, et modifiable sans compétences techniques particulières.
+Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif :  
+- modulable,
+- publiable gratuitement via GitHub Pages,
+- et modifiable sans compétences techniques particulières.
 
-Dans ce cas précis, il sert à héberger une série de **dossiers critiques** sur la Belgique — ses tensions, ses ressources, ses perspectives.  
+Dans ce cas précis, il sert à héberger une série de **dossiers sympas** sur la Belgique — ses tensions, ses ressources, ses perspectives.  
 Mais il peut tout aussi bien devenir un carnet de bord, un blog associatif, une base documentaire ou un outil de médiation.
 
 ---
@@ -33,8 +35,8 @@ Pour créer une version personnalisée du site :
 L’ensemble du site peut être modifié directement dans l’interface web de GitHub :
 
 - Page d’accueil → [`index.md`]
-- Étapes de tutoriel → [`/tutorial`]
-- Articles de blog → [`/_posts`]
+- Étapes de tutoriel → [`/tutorial`] 🏗 Bientôt 🚧
+- Articles de blog → [`/_posts`] à remplacer d'urgence
 
 Des modèles préconfigurés sont fournis.
 
