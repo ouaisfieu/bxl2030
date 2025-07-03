@@ -110,12 +110,4 @@ Mais elle cumule **toutes les conditions préalables** :
 > Le pire ne serait pas qu’il se produise. Le pire serait qu’on dise :  
 > **"Personne ne pouvait prévoir."**
 
----
 
-**À consulter ensuite :**  
-[[Fiche Electrabel]], [[Fiche Sabotage Doel 4]], [[Fiche Incident Tihange 2012]], [[Hub - Transition & Risques]], [[Fiche - Contre-pouvoirs nucléaires]], [[Carte des Zones – Périmètres de Sécurité Nucléaire]]
-
----
-
-
-liens: [[Chronologie falsifiée]], [[Hub - Justice & Impunité]], [[Fiche Electrabel]], [[Hub - Transition & Risques]], [[Cartes de zones]], [[Fiche - Incident Tihange 2012]], [[Fiche sabotage Doel 4]]
