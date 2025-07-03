@@ -39,6 +39,7 @@ defaults:
       classes: wide
       author_profile: false
       toc: true
+      image: /assets/img/og-default.png
       header:
         overlay_image: /assets/img/bxl-header.jpg
         overlay_filter: "0.3"
