@@ -2,6 +2,15 @@ title: "BXL2030"
 description: "Du contenu à revoir d'urgence"
 url: "https://ouaisfieu.github.io"
 baseurl: "/bxl2030"    # ← Laisse vide si le site est à la racine (GitHub Pages utilisateur)
+lang: fr
+locale: fr
+title_separator: " - "
+logo: "/assets/img/clov-logo.png"
+site_logo: "/assets/img/clov-logo.png"
+masthead_logo: "/assets/img/clov-logo.png"
+
+# google_site_verification: "à voir"
+
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
@@ -10,6 +19,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache   # ← indispensable pour {% include_cached %}
+
+markdown: kramdown
+
 
 
 navigation:
@@ -27,17 +39,19 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: false
   - scope:
       path: "tutorial"
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: false
 
 author:
   name   : "ouaisfi.eu"
-  avatar : "/assets/img/avatar.png"
+  avatar : "/assets/img/clov-logo.png"
   bio    : "Curieux·se."
 
 
@@ -46,5 +60,17 @@ seo:
   type: Website
   name: "Bxl2030"
   description: "Du contenu à revoir d'urgence"
+
+# Social
+author:
+  name: "ouaisfi.eu"
+  avatar: "/assets/img/clov-logo.png"
+
+social:
+  name: "ouaisfi.eu"
+  links:
+    - "https://github.com/ouaisfieu"
+    - "https://bsky.app/profile/ouaisfieu.bsky.social"
+  
 copyright: "© Dont'be evil, just do it ©"
 
