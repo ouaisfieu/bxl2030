@@ -1,5 +1,6 @@
 ---
 layout: home
+classes: wide
 title: "Bienvenue - BXL2030"
 subtitle: "Un site de départ, libre et prêt à transformer"
 ---
