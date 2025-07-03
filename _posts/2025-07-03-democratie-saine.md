@@ -228,7 +228,10 @@ Malgré un cadre légal protecteur, **Freedom House** note depuis 2016 une lég�
 
 ### 4.2 Assemblée citoyenne permanente d’Ostbelgien
 
-- La Communauté germanophone a créé en 2019 un **Citizens’ Council** tiré au sort, chargé de convoquer des assemblées délibératives ; six sessions ont déjà influencé la législation régionale. ([oidp.net](https://oidp.net/en/practice.php?id=1237&utm_source=chatgpt.com "The Ostbelgien Model: a long-term Citizens' Council ... - OIDP"), [publicdeliberation.net](https://www.publicdeliberation.net/the-ostbelgien-model-five-years-on/?utm_source=chatgpt.com "The Ostbelgien Model: five years on - Deliberative Democracy Digest |"), [g1000.org](https://www.g1000.org/en/cases/permanent-citizen-dialogue-ostbelgien?utm_source=chatgpt.com "Permanent Citizen Dialogue in Ostbelgien - G1000"))
+- La Communauté germanophone a créé en 2019 un **Citizens’ Council** tiré au sort, chargé de convoquer des assemblées délibératives ; six sessions ont déjà influencé la législation régionale.
+🟢 [oidp.net](https://oidp.net/en/practice.php?id=1237&utm_source=chatgpt.com "The Ostbelgien Model: a long-term Citizens' Council ... - OIDP"),
+🟢 [publicdeliberation.net](https://www.publicdeliberation.net/the-ostbelgien-model-five-years-on/?utm_source=chatgpt.com "The Ostbelgien Model: five years on - Deliberative Democracy Digest |"),
+🟢 [g1000.org](https://www.g1000.org/en/cases/permanent-citizen-dialogue-ostbelgien?utm_source=chatgpt.com "Permanent Citizen Dialogue in Ostbelgien - G1000")
     
 
 ### 4.3 Ouverture des données publiques
