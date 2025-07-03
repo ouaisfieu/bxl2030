@@ -99,13 +99,6 @@ La pandémie n’a pas causé la rupture. Elle l’a **confirmée**.
 > Le pays tient par habitude, non par adhésion.  
 > Ce n’est plus une démocratie. C’est un **mécanisme à cliquet rouillé**.
 
----
-
-**À consulter ensuite :**  
-[[Dossier Belgique 2020–2024 (préparation)]], [[Fiche Gouvernement Wilmès]], [[Fiche Gilets Jaunes Belgique]], [[Hub - Crise & Résilience]], [[Fiche PTB-NVA : populismes opposés ?]], [[Carte des zones critiques – fragmentation du territoire]]
-
----
-
 
 liens: [[Chronologie falsifiée]], [[Dossier Belgique 1996–2013]], [[Hub - Résilience & Rupture]], [[Fiche Charles Michel]], [[Fiche Gilets Jaunes Belgique]], [[Hub - Justice & Impunité]]
 
