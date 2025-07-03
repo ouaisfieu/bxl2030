@@ -22,16 +22,13 @@ plugins:
 
 markdown: kramdown
 
+collections:
+  notes:
+    output: true       # génère des pages HTML pour chaque note
+    permalink: /notes/:title/
 
 
-navigation:
-  items:
-    - title: Accueil
-      url: /
-    - title: Tutoriel
-      url: /tutorial/
-    - title: Blog
-      url: /blog/
+
 
 defaults:
   - scope:
