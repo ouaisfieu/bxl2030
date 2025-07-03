@@ -1,5 +1,5 @@
 ---
-title: "Belgique 1984-1996 : De la désillusion à la sidération collective
+title: "Belgique 1984-1996 - De la désillusion à la sidération collective
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,11 +10,9 @@ header:
   show_header: true
 classes: wide
 excerpt: ""
+
 ---
 
-# ◼︎ Belgique 1984--1996 : De la désillusion à la sidération collective
-
-------------------------------------------------------------------------
 
 ## I. 1984--1989 : L'après-choc et la fausse accalmie
 
@@ -27,7 +25,7 @@ excerpt: ""
 
 > Un pays fédéralisé mais fragmenté, stabilisé mais dépolitisé. Le ver est dans le fruit.
 
-------------------------------------------------------------------------
+---
 
 ## II. 1990--1993 : Crises en cascade
 
@@ -41,7 +39,7 @@ excerpt: ""
 
 > L'État n'est plus perçu comme protecteur. Le pouvoir devient gestionnaire, la société orpheline.
 
-------------------------------------------------------------------------
+---
 
 ## III. 1993--1996 : Fracture terminale et perte de confiance
 
@@ -54,7 +52,7 @@ excerpt: ""
 
 > L'affaire Dutroux ne fait pas que choquer. Elle révèle **l'effondrement moral d'un État**.
 
-------------------------------------------------------------------------
+---
 
 ## IV. Bilan transversal 1984--1996 : État belge déstructuré
 
@@ -81,7 +79,7 @@ excerpt: ""
 - Repli identitaire et régional.
 - Émergence de voix dissidentes dans les arts, mais peu audibles dans l'espace public.
 
-------------------------------------------------------------------------
+---
 
 ## Conclusion : 1996, année zéro ?
 
@@ -90,17 +88,5 @@ La période 1984--1996 marque la **fin d'un cycle**. L'État belge ne gouverne p
 La **Marche blanche** aurait pu être un réveil. Elle fut un baroud d'honneur.  
 \> À partir de 1996, c'est **la peur, le cynisme et le silence** qui occupent le vide.
 
-------------------------------------------------------------------------
+---
 
-**À consulter également :**  
-<a href="Dossier Belgique 1980–1984"
-class="wikilink">DossierBelgique1980–1984</a>, <a href="Dossier Dutroux" class="wikilink">DossierDutroux</a>, <a href="Carte des Zones – Zones de non-confiance"
-class="wikilink">CartedesZones–Zonesdenon-confiance</a>, <a href="Fiche : Marche Blanche"
-class="wikilink">Fiche:MarcheBlanche</a>, <a href="Hub - Justice &amp; Impunité"
-class="wikilink">Hub-Justice&amp;Impunité</a>, <a href="Hub - Résistance &amp; Dissidence"
-class="wikilink">Hub-Résistance&amp;Dissidence</a>
-
-------------------------------------------------------------------------
-
-liens: <a href="Chronologie falsifiée"
-class="wikilink">Chronologiefalsifiée</a>, <a href="Bruxelles 2030" class="wikilink">Bruxelles2030</a>, <a href="Fiche CCC" class="wikilink">FicheCCC</a>, <a href="Dossier Dutroux" class="wikilink">DossierDutroux</a>, <a href="Cartes de zones" class="wikilink">Cartesdezones</a>
