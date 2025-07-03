@@ -14,6 +14,8 @@ excerpt: ""
 
 ---
 
+![90s](https://dl.ouaisfi.eu/images/captures/90s.jpg)
+
 ## Éducation civique
 
 Durant les années 1990, la sensibilisation des élèves aux institutions et aux valeurs démocratiques gagne en importance, bien qu’elle ne fasse toujours pas l’objet d’un cours unique et transversal. 
