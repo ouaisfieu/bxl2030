@@ -12,9 +12,12 @@ header:
 
 # 🔳 Un point de (nouveau) départ
 
-🟩 Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif :  
+🟩 Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif : 
+ 
 🔲 modulable,
+
 🔲 publiable gratuitement via GitHub,
+
 🔲 modifiable sans compétences techniques particulières.
 
 🟩 Dans ce cas précis, il sert à héberger une série de **dossiers sympas** sur la Belgique — ses tensions, ses ressources, ses perspectives.  
