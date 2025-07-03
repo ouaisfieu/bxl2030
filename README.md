@@ -42,7 +42,7 @@ Tout se fait depuis l’**interface web de GitHub**, en quelques clics.
 ### 📚 Pages de tutoriel
 
 - Ajouter une page : [Créer un fichier dans `/tutorial`]
-  [https://github.com/VOTRE PSEUDO ICI/bxl2030/new/main/tutorial)
+  [https://github.com/VOTRE-PSEUDO-ICI/bxl2030/new/main/tutorial)
 - Exemple :
 
 ```markdown
