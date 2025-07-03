@@ -1,5 +1,5 @@
 ---
-title: "Créer une collection de notes avec style dans Jekyll (Minimal Mistakes)"
+title: "Créer une collection de notes avec Jekyll (Minimal Mistakes)"
 date: 2025-07-03
 layout: single
 classes: wide
@@ -11,7 +11,7 @@ toc: true
 ```markdown
 
 ---
-title: "Créer une collection de notes avec style dans Jekyll (Minimal Mistakes)"
+title: "Créer une collection de notes avec Jekyll (Minimal Mistakes)"
 date: 2025-07-03
 layout: single
 toc: true
@@ -33,7 +33,7 @@ Ajouter un dossier `_notes` dans un site Jekyll basé sur le thème **Minimal Mi
 ## ✅ Étapes à suivre
 ### 1. Déclarer la collection dans `_config.yml`
 
-Ajoute ceci :
+Ajouter ceci :
 
 ```yaml
 collections:
@@ -45,7 +45,7 @@ collections:
 
 ### 2. Créer le dossier `_notes/`
 
-Ajoute tes notes Markdown dans ce dossier avec un **front matter** comme :
+Ajouter ses notes Markdown dans ce dossier avec un **front matter** comme :
 
 ```markdown
 ---
@@ -61,7 +61,9 @@ Contenu de la note ici.
 
 ```
 
-Le layout single applique automatiquement le style du thème à la page. Sans cela, la note s'affiche sans mise en forme (style brut HTML).
+Le layout single applique automatiquement le style du thème à la page.
+Sans cela, la note s'affiche sans mise en forme (style brut HTML).
+
 Et sous `layout: single` avec :
 
 ```markdown
