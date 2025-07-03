@@ -23,6 +23,8 @@ excerpt: ""
 
 ---
 
+![authentique](https://dl.ouaisfi.eu/images/captures/authentique.jpg)
+
 ## II. Chronologie critique (non exhaustive)
 
 ### 1975–2000 : Confiance aveugle
