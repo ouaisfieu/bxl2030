@@ -12,7 +12,7 @@ header:
 
 # 🔳 Un point de (nouveau) départ
 
-🟩 Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif : 
+🟩 Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif
  
 🔲 modulable,
 
@@ -51,7 +51,7 @@ L’ensemble du site peut être modifié directement dans l’interface web de G
 - 🔲 Articles de blog → [`/_posts`] 🔴
   🔴 à remplacer d'urgence 🔴
 
-🔲 Des modèles préconfigurés sont fournis.
+🔲 Des modèles préconfigurés sont en vue.
 
 ---
 
@@ -73,3 +73,5 @@ Il propose un cadre minimal, personnalisable, reproductible, et utilisable à di
 *🔲 Ce site est diffusé sous licence libre, à usage non commercial.  
 🔲 Il peut être copié, adapté et partagé, 🔲
 🔲 sans obligation de mentionner la source 🔲*
+
+![retard-pistoche](https://dl.ouaisfi.eu/images/captures/fbttf.png)
