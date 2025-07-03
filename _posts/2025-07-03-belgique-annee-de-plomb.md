@@ -170,7 +170,3 @@ Ce n'est pas un cold case : c'est un **cas gelé volontairement**, **encadré**,
 ------------------------------------------------------------------------
 
 
-class="wikilink">Hub-Justice&amp;Impunité</a>, <a href="Dossier Belgique 1984–1996"
-class="wikilink">DossierBelgique1984–1996</a>
-
-------------------------------------------------------------------------
