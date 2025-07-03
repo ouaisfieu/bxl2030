@@ -100,6 +100,4 @@ La pandémie n’a pas causé la rupture. Elle l’a **confirmée**.
 > Ce n’est plus une démocratie. C’est un **mécanisme à cliquet rouillé**.
 
 
-liens: [[Chronologie falsifiée]], [[Dossier Belgique 1996–2013]], [[Hub - Résilience & Rupture]], [[Fiche Charles Michel]], [[Fiche Gilets Jaunes Belgique]], [[Hub - Justice & Impunité]]
-
 
