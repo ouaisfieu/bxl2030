@@ -10,21 +10,25 @@ header:
     
 ---
 
-# 🗺️ BXL2030 — Un point de départ réutilisable
+# 🔳 Un point de (nouveau) départ
 
-Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif :  
-- modulable,
-- publiable gratuitement via GitHub Pages,
-- et modifiable sans compétences techniques particulières.
+🟩 Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif :  
+🔲 modulable,
+🔲 publiable gratuitement via GitHub,
+🔲 modifiable sans compétences techniques particulières.
 
-Dans ce cas précis, il sert à héberger une série de **dossiers sympas** sur la Belgique — ses tensions, ses ressources, ses perspectives.  
-Mais il peut tout aussi bien devenir un carnet de bord, un blog associatif, une base documentaire ou un outil de médiation.
+🟩 Dans ce cas précis, il sert à héberger une série de **dossiers sympas** sur la Belgique — ses tensions, ses ressources, ses perspectives.  
+🟩 Mais il peut tout aussi bien devenir:
+- 🟩 un carnet de bord,
+- 🟩 un blog associatif,
+- 🟩 une base documentaire
+- 🟩 ou un outil de médiation.
 
 ---
 
 ## 🔧 Utilisation
 
-Pour créer une version personnalisée du site :
+🟩 Pour créer une version personnalisée :
 
 1. Utiliser ce dépôt comme point de départ → [dupliquer le template](https://github.com/ouaisfieu/bxl2030/generate)
 2. Activer la publication GitHub Pages :
@@ -40,10 +44,11 @@ Pour créer une version personnalisée du site :
 L’ensemble du site peut être modifié directement dans l’interface web de GitHub :
 
 - Page d’accueil → [`index.md`]
-- Étapes de tutoriel → [`/tutorial`] 🏗 Bientôt 🚧
-- Articles de blog → [`/_posts`] à remplacer d'urgence
+- Tutoriel → [`/tutorial`] 🏗 Bientôt 🚧
+- 🔲 Articles de blog → [`/_posts`] 🔴
+  🔴 à remplacer d'urgence 🔴
 
-Des modèles préconfigurés sont fournis.
+🔲 Des modèles préconfigurés sont fournis.
 
 ---
 
@@ -58,9 +63,10 @@ Il propose un cadre minimal, personnalisable, reproductible, et utilisable à di
 
 ---
 
-Aucune installation locale n’est requise pour commencer.
+✅ Aucune installation locale n’est requise pour commencer.
 
 ---
 
-*Ce site est diffusé sous licence libre, à usage non commercial.  
-Il peut être copié, adapté et partagé, sans obligation de mentionner la source.*
+*🔲 Ce site est diffusé sous licence libre, à usage non commercial.  
+🔲 Il peut être copié, adapté et partagé, 🔲
+🔲 sans obligation de mentionner la source 🔲*
