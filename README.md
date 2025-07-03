@@ -36,7 +36,7 @@ Tout se fait depuis l’**interface web de GitHub**, en quelques clics.
 
 ### 🏠 Page d’accueil
 
-- Fichier : [`index.md`](index.md)
+- Fichier : [`index.md`]
 - Cliquez sur le crayon ✏️ pour l’éditer et changer le texte d’accueil
 
 ### 📚 Pages de tutoriel
