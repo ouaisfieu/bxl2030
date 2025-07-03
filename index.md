@@ -1,7 +1,7 @@
 ---
 layout: home
 classes: wide
-title: "Bienvenue - BXL2030"
+title: "BXL2030"
 subtitle: "Un site de départ, libre et prêt à transformer"
 header:
   overlay_image: /assets/img/bxl-header.jpg
@@ -10,6 +10,7 @@ header:
     
 ---
 
+# 🗺️ BXL2030 — Un point de départ réutilisable
 
 Ce site constitue un **modèle libre** permettant de créer un espace web personnel  ou collectif :  
 - modulable,
