@@ -71,3 +71,7 @@ social:
   
 copyright: "© Dont'be evil, just do it ©"
 
+header:
+  overlay_image: /assets/img/bxl-header.jpg
+  overlay_filter: "0.3"   # Ajuste l'opacité sombre (0 = transparent, 1 = opaque)
+  caption: "Bruxelles 2030 — entre brume et ruines"
