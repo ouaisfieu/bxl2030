@@ -21,6 +21,8 @@ excerpt: ""
 Entre **1982 et 1985**, la Belgique est secouée par une **vague de violence organisée**, dont les responsables sont soit **inconnus**, soit **neutralisés**, soit **soupçonnés d'être infiltrés**.  
 On parle alors des **"Années de plomb" belges**, par analogie avec l'Italie des Brigades Rouges. Sauf qu'ici, l'opacité est totale. Le spectre de la **stratégie de la tension** plane.
 
+![plomb](https://dl.ouaisfi.eu/images/captures/plomo.jpg)
+
 ------------------------------------------------------------------------
 
 ## II. Les deux faces de la terreur
