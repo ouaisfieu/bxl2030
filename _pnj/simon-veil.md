@@ -25,7 +25,7 @@ twitter:
   
 ---
 
-![Simon Veil](/assets/img/pnj/simon-veil.jpg)
+![Simon Veil](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/simon-veil.jpg)
 
 ## Le Père présumé
 
