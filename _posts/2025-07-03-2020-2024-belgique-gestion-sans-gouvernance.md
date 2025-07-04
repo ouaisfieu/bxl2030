@@ -1,5 +1,33 @@
 ---
-title: "Belgique 2020--2024 : La gestion sans gouvernance"
+title: "Belgique 2020-2024 : La gestion sans gouvernance"
+date: 2025-07-03
+lang: fr
+country: BE
+period: 2020-2024
+decade: 2020s
+slug: belgique-2020-2024-gestion-sans-gouvernance
+permalink: /belgique/2020-2024-gestion-sans-gouvernance/
+categories:
+  - belgique
+  - périodes
+  - 2020s
+tags:
+  - belgique
+  - 2020-2024
+  - covid-19
+  - vivaldi
+  - crise-énergétique
+  - réforme-de-l'état
+  - polarisation
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, 2020-2024, Covid-19, pouvoirs spéciaux, gouvernement De Croo, Vivaldi, crise énergétique, polarisation politique, réforme de l’État, initiatives citoyennes]
+excerpt: "De la pandémie à la crise énergétique, 2020-2024 révèle une Belgique gérée par décrets, sans vision politique, tandis que la société se reconfigure en marge des institutions."
+description: "Analyse critique de la période 2020-2024 : gestion technocratique via pouvoirs spéciaux, coalition Vivaldi sans projet, polarisation croissante, crise énergétique et essor des initiatives citoyennes hors cadre étatique."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,8 +37,7 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
-
+related: true
 
 ---
 
