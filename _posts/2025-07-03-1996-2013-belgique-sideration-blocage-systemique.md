@@ -1,5 +1,33 @@
 ---
 title: "Belgique 1996–2013 : De la sidération au blocage systémique"
+date: 2025-07-03
+lang: fr
+country: BE
+period: 1996-2013
+decade: 2000s
+slug: belgique-1996-2013-blocage-systemique
+permalink: /belgique/1996-2013-blocage-systemique/
+categories:
+  - belgique
+  - périodes
+  - 2000s
+tags:
+  - belgique
+  - 1996-2013
+  - crise-constitutionnelle
+  - 541-jours-sans-gouvernement
+  - post-dutroux
+  - fédéralisme
+  - n-va
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, 1996-2013, blocage politique, crise constitutionnelle, 541 jours sans gouvernement, fédéralisme conflictuel, désaffiliation citoyenne]
+excerpt: "Après 1996, la Belgique entre dans une phase de paralysie contrôlée : réformes judiciaires inabouties, record mondial d’absence de gouvernement et érosion continue de la légitimité institutionnelle."
+description: "Étude du blocage systémique belge 1996-2013 : institutions fragmentées, crises politiques chroniques et désaffiliation progressive de la société."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,8 +37,11 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
+
+
 ---
+
 
 ## I. 1996–2000 : La gueule de bois démocratique
 
