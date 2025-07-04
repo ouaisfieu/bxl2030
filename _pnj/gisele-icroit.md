@@ -5,12 +5,14 @@ title: "Gisèle Icroit"
 slug: "gisele-icroit"
 role: "Porteuse de parole"
 excerpt: "« Le cauchemar des profs, c’est quand l’école tue les rêves. »"
-image: "/assets/img/pnj/gisele-icroit.jpg"   # chemin depuis la racine du site
 tags: [PNJ, BXL2030, citoyenneté]
 seo:
   type: "Person"            # schéma.org
   jobTitle: "Porteuse de parole"
   affiliation: "Collectif BXL2030"
+image: "/assets/img/pnj/gisele-icroit-og.jpg"
+twitter:
+  card: "summary_large_image"
   
 ---
 
