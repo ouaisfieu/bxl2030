@@ -1,5 +1,26 @@
 ---
-title: "Un État démocratique sain"
+title: "Un État démocratique sain : dix clés pour la résilience"
+date: 2025-07-03
+lang: fr
+country: BE
+slug: etat-democratique-sain
+permalink: /concepts/etat-democratique-sain/
+categories:
+  - concepts
+  - démocratie
+tags:
+  - démocratie
+  - état-de-droit
+  - séparation-des-pouvoirs
+  - participation-citoyenne
+  - justice-sociale
+  - liberté-des-médias
+  - éducation-civique
+  - transparence
+keywords: [démocratie saine, séparation des pouvoirs, état de droit, participation citoyenne, justice sociale, transparence, liberté des médias, éducation civique]
+excerpt: "Un État démocratique sain repose sur la séparation des pouvoirs, l’état de droit, des médias libres, la participation citoyenne et la justice sociale, soutenus par l’éducation civique et la transparence."
+description: "Guide complet des dix clés d’une démocratie saine : institutions équilibrées, contre-pouvoirs, libertés publiques, justice sociale, éthique et participation citoyenne."
+image: /assets/img/bxl-header.jpg
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,9 +30,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
+
 
 
 
@@ -27,7 +49,7 @@ Un **État démocratique sain** repose sur plusieurs **clés fondamentales** qui
 
 ---
 
-![login](https://dl.ouaisfi.eu/images/captures/login.jpg)
+
 
 ## 🔑 LES CLÉS D’UN ÉTAT DÉMOCRATIQUE SAIN
 
