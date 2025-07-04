@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "Alphonse Walking Deday"
-permalink: /pnj/alphonse-w-deday/
+permalink: /pnj/alphonse-walking-deday/
 share: true                      # ← autorise les méta-tags et les boutons
-slug: "alphonse-w-deday"
+slug: "alphonse-walking-deday"
 role: "Porteur multiple"
 excerpt: "« C'est todi les zombies qu'on spotche. »"
 description: "Pour la bonne cause."
