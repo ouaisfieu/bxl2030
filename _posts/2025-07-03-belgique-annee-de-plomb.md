@@ -1,6 +1,33 @@
 ---
 title: "Les Années de Plomb belges : 1982-1985 La stratégie du choc"
-
+date: 2025-07-03
+lang: fr
+country: BE
+period: 1982-1985
+decade: 1980s
+slug: belgique-annees-de-plomb-1982-1985
+permalink: /belgique/annees-de-plomb-1982-1985/
+categories:
+  - belgique
+  - périodes
+  - 1980s
+tags:
+  - belgique
+  - 1982-1985
+  - tueurs-du-brabant
+  - ccc
+  - strategie-de-la-tension
+  - gladio
+  - assassinat-andre-cools
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, Années de plomb, 1982-1985, Tueurs du Brabant, CCC, stratégie de la tension, Gladio, assassinat André Cools, affaire Agusta]
+excerpt: "De 1982 à 1985, la Belgique est frappée par une vague d’attentats et de meurtres (Tueurs du Brabant, CCC) nourrissant l’hypothèse d’une stratégie de la tension et préparant la crise de confiance des années 1990."
+description: "Récit des Années de plomb belges : violences anonymes, réseaux occultes et assassinat d’André Cools, révélateurs d’un État miné par l’opacité."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,9 +37,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
+
 
 
 
@@ -21,7 +49,7 @@ excerpt: ""
 Entre **1982 et 1985**, la Belgique est secouée par une **vague de violence organisée**, dont les responsables sont soit **inconnus**, soit **neutralisés**, soit **soupçonnés d'être infiltrés**.  
 On parle alors des **"Années de plomb" belges**, par analogie avec l'Italie des Brigades Rouges. Sauf qu'ici, l'opacité est totale. Le spectre de la **stratégie de la tension** plane.
 
-![plomb](https://dl.ouaisfi.eu/images/captures/plomo.jpg)
+
 
 ------------------------------------------------------------------------
 
