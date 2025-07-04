@@ -14,7 +14,7 @@ seo:
   
 ---
 
-![Gisèle Icroit - Porteuse de parole]("/assets/img/pnj/gisele-icroit.jpg")
+![Gisèle Icroit - Porteuse de parole](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/gisele-icroit.jpg)
 
 > _« Le cauchemar des profs, c’est quand l’école tue les rêves. »_
 
