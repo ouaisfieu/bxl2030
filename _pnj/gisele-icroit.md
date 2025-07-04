@@ -15,8 +15,15 @@ seo:
   jobTitle: "Porteuse de parole"
   affiliation: "Collectif BXL2030"
 image: "/assets/img/pnj/gisele-icroit-og.jpg"
+
+# ------------  IMAGE OG  ------------
+image:
+  path: /assets/img/pnj/gisele-icroit-og.jpg   # 1200×630, sans https://
+  alt: "Portrait de Gisèle Icroit"
+
 twitter:
-  card: "summary_large_image"
+  card: summary_large_image
+
   
 ---
 
