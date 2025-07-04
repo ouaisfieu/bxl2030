@@ -76,4 +76,4 @@ Il propose un cadre minimal, personnalisable, reproductible, et utilisable à di
 🔲 Il peut être copié, adapté et partagé, 🔲
 🔲 sans obligation de mentionner la source 🔲*
 
-![retard-pistoche](https://dl.ouaisfi.eu/images/captures/fbttf.png)
+
