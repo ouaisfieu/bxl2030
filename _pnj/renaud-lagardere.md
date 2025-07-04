@@ -34,7 +34,7 @@ twitter:
 **Secteurs d'activité** : Médias, communication, industrie et sports  
 **Traits de personnalité** : Ambitieux, charismatique, controversé, stratège
 
-![Renaud Lagardère](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/renaud-lagardere.jpg
+![Renaud Lagardère](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/renaud-lagardere.jpg)
 
 ---
 
