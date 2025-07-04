@@ -1,6 +1,28 @@
 ---
 title: "Belgique - décennie 00"
-
+layout: post
+date: 2025-07-03
+lang: fr
+country: BE
+decade: 2000s
+slug: belgique-decennie-00
+permalink: /belgique/decennie-00/
+categories:
+  - belgique
+  - décennies
+  - 2000s
+tags:
+  - belgique
+  - décennie-2000
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, années 2000, éducation civique, justice sociale, liberté des médias, participation citoyenne, séparation des pouvoirs, transparence]
+excerpt: "Dans les années 2000, la Belgique amorce une éducation civique commune, consolide son État-providence tout en étendant de nouveaux droits (mariage pour tous, euthanasie) et renforce la liberté de la presse, la participation citoyenne et la transparence malgré la crise financière de 2008." # :contentReference[oaicite:0]{index=0}
+description: "Panorama des évolutions démocratiques belges dans les années 2000 : citoyenneté, justice sociale, médias, participation, institutions et transparence."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,9 +32,12 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
+
+
+
 
 
 ## Éducation civique
