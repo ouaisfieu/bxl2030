@@ -22,7 +22,7 @@ tags:
   - séparation-des-pouvoirs
   - transparence
 keywords: [Belgique, années 2010, cours de citoyenneté, réforme des pensions, fake news, G1000, Ostbelgien, transparence]
-excerpt: "Les années 2010 voient l’instauration des cours de philosophie et citoyenneté, des réformes sociales contestées, l’essor de la démocratie participative (G1000, commissions délibératives) et de nouvelles exigences de transparence, sur fond de plus longue crise gouvernementale de l’histoire belge." # :contentReference[oaicite:1]{index=1}
+excerpt: "Les années 2010 voient l’instauration des cours de philosophie et citoyenneté, des réformes sociales contestées, l’essor de la démocratie participative (G1000, commissions délibératives) et de nouvelles exigences de transparence, sur fond de plus longue crise gouvernementale de l’histoire belge."
 description: "Décennie 2010 : institutionnalisation de la citoyenneté, ajustements de l’État social, défis médiatiques à l’ère numérique et innovations démocratiques."
 header:
   overlay_image: /assets/img/bxl-header.jpg
