@@ -15,7 +15,7 @@ seo:
   affiliation: "Collectif BXL2666"
 
 # ------------  IMAGE OG  ------------
-image: /assets/img/pnj/alphonse-w-deday.jpg
+image: /assets/img/pnj/alphonse-walking-deday.jpg
 
 twitter:
   card: summary_large_image                   # aperçu XL sur X/Twitter
@@ -24,7 +24,7 @@ twitter:
 
 ---
 
-![Alphonse Walking Deday - Porteur multiple](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/gisele-icroit.jpg)
+![Alphonse Walking Deday - Porteur multiple](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/alphonse-walking-deday.jpg)
 
 « C'est todi les zombies qu'on spotche. »
 
