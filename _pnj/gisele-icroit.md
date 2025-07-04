@@ -18,22 +18,5 @@ seo:
 
 > _« Le cauchemar des profs, c’est quand l’école tue les rêves. »_
 
-### Profil
 
-| Attribut | Valeur |
-|----------|--------|
-| Âge | 27 ans |
-| Quartier | Saint-Gilles |
-| Compétence clé | Facilitation de débats de rue |
-| Motivation | Redonner la parole aux “sans-voix” |
-
-### Bio courte
-
-Gisèle grandit entre les murs d’une école où la créativité était … (ton texte libre).
-
-### Hooks narratifs
-
-1. Organiser un débat éclair sur la gentrification.  
-2. Demander à Gisèle de recueillir des doléances pour le prochain conseil citoyen.  
-3. …
 
