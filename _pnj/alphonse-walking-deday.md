@@ -24,7 +24,7 @@ twitter:
 
 ---
 
-![Alphonse Walking Deday - Porteur multiple](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/alphonse-w-deday.jpg)
+![Alphonse Walking Deday - Porteur multiple](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/gisele-icroit.jpg)
 
 « C'est todi les zombies qu'on spotche. »
 
