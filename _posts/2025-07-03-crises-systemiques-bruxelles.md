@@ -1,5 +1,35 @@
 ---
-title: "Signes actuels de crises systémiques à Bruxelles (2023‑2025)"
+title: "Signes actuels de crises systémiques à Bruxelles (2023-2025)"
+date: 2025-07-03
+lang: fr
+country: BE
+city: Bruxelles
+period: 2023-2025
+decade: 2020s
+slug: crises-systemiques-bruxelles-2023-2025
+permalink: /bruxelles/crises-systemiques-2023-2025/
+categories:
+  - bruxelles
+  - crises
+  - 2020s
+tags:
+  - bruxelles
+  - crises-systemiques
+  - narcotrafic
+  - dette-publique
+  - services-publics
+  - ghettoisation
+  - paralysie-politique
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Bruxelles, crises systémiques, narcotrafic, dette régionale, services publics, ghettoïsation, paralysie politique, sécurité, logement, santé, éducation]
+excerpt: "Entre 2023 et 2025, Bruxelles cumule des signaux de crise systémique : flambée de violence liée au narcotrafic, dette publique explosive, services publics sous tension et blocage institutionnel."
+description: "Analyse détaillée des signes de crises systémiques à Bruxelles (2023-2025) : insécurité, ghettoïsation, fragilité budgétaire, saturation des services publics et paralysie politique."
+image: /assets/img/bxl-header.jpg
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,11 +39,13 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
+
 
 ---
 
-![Bxl by Night](https://dl.ouaisfi.eu/images/captures/bxl2042.jpg)
+
+
 
 ## Montée de la violence liée au trafic de drogue et **ghettoïsation** de quartiers
 
