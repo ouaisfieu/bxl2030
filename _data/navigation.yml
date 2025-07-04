@@ -1,3 +1,5 @@
 main:
   - title: "Notes"
     url: /notes/
+  - title: "PNJ"
+    url: /pnj/
