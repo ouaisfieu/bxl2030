@@ -1,6 +1,28 @@
 ---
 title: "Belgique - décennie 10"
-
+layout: post
+date: 2025-07-03
+lang: fr
+country: BE
+decade: 2010s
+slug: belgique-decennie-10
+permalink: /belgique/decennie-10/
+categories:
+  - belgique
+  - décennies
+  - 2010s
+tags:
+  - belgique
+  - décennie-2010
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, années 2010, cours de citoyenneté, réforme des pensions, fake news, G1000, Ostbelgien, transparence]
+excerpt: "Les années 2010 voient l’instauration des cours de philosophie et citoyenneté, des réformes sociales contestées, l’essor de la démocratie participative (G1000, commissions délibératives) et de nouvelles exigences de transparence, sur fond de plus longue crise gouvernementale de l’histoire belge." # :contentReference[oaicite:1]{index=1}
+description: "Décennie 2010 : institutionnalisation de la citoyenneté, ajustements de l’État social, défis médiatiques à l’ère numérique et innovations démocratiques."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,9 +32,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
+
 
 ## Éducation civique
 
