@@ -1,5 +1,33 @@
 ---
 title: "Belgique 1984-1996 - De la désillusion à la sidération collective"
+date: 2025-07-03
+lang: fr
+country: BE
+period: 1984-1996
+decade: 1980s-1990s
+slug: belgique-1984-1996-desillusion-sideration
+permalink: /belgique/1984-1996-desillusion-sideration/
+categories:
+  - belgique
+  - périodes
+  - 1990s
+tags:
+  - belgique
+  - 1984-1996
+  - fédéralisation
+  - tueurs-du-brabant
+  - affaire-dutroux
+  - marche-blanche
+  - impunité
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, 1984-1996, CCC, Tueurs du Brabant, réforme de l’État, fédéralisme, crise monarchique 1990, affaire Dutroux, Marche blanche]
+excerpt: "De 1984 à 1996, la Belgique passe d’une violence politique mal élucidée à une crise de confiance culminant avec l’affaire Dutroux : fédéralisation sans vision, impunité perçue et sidération collective."
+description: "Retour sur la trajectoire 1984-1996 : désindustrialisation, réformes institutionnelles et séismes sécuritaires qui minent durablement la confiance dans l’État belge."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,7 +37,11 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
+related: true
+
+
 ---
+
 
 
 ## I. 1984--1989 : L'après-choc et la fausse accalmie
