@@ -17,7 +17,6 @@ twitter:
 seo:                                        # schema.org “Person”
   type:       "Person"
   jobTitle:   "Vigile clandestin"
-  affiliation:"Collectif BXL2066"
 
 classes: wide
 categories: [PNJ]
