@@ -63,7 +63,8 @@ defaults:
       path: ""
       type: "pnj"
     values:
-      layout: pnj         # layout dédié
+      layout: single
+      classes: wide
       categories: [PNJ]   # pour SEO / regroupement
 
 
