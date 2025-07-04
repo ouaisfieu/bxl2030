@@ -1,2 +1,7 @@
 <!-- Favicon -->
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+
+
+{%- if page.layout == "single" or page.collection == "posts" -%}
+  {% include jsonld_article.html %}
+{%- endif -%}
