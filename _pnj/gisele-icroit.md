@@ -10,7 +10,7 @@ seo:
   type: "Person"            # schéma.org
   jobTitle: "Porteuse de parole"
   affiliation: "Collectif BXL2030"
-image: "/assets/img/pnj/gisele-icroit-og.jpg"
+image: "https://ouaisfieu.github.io/bxl2030/assets/img/pnj/gisele-icroit-og.jpg"
 twitter:
   card: "summary_large_image"
   
