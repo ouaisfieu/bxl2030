@@ -16,11 +16,9 @@ seo:
   affiliation: "Collectif BXL2030"
 
 # ------------  IMAGE OG  ------------
-image: "https://ouaisfieu.github.io/bxl2030/assets/img/pnj/gisele-icroit.jpg"
+image: "/assets/img/pnj/gisele-icroit.jpg"
 
-image:
-  path: /assets/img/pnj/gisele-icroit-og.jpg   # 1200×630, sans https://
-  alt: "Portrait de Gisèle Icroit"
+
 
 twitter:
   card: summary_large_image
