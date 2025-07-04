@@ -135,7 +135,7 @@ Les profils atypiques ont souvent une **grande curiosité**, mais une **difficul
 
 Les méthodes d'évaluation classiques (examens standardisés) sont souvent inadaptées. L'éducation idéale privilégie :
 
-- **L'évaluation continue et qualitative** (<a href="portfolio" class="wikilink">portfolio</a>, journal de bord, auto-évaluation).
+- **L'évaluation continue et qualitative** (<a href="https://ouaisfieu.github.io/portfolio-markdown/" class="wikilink">portfolio</a>, journal de bord, auto-évaluation).
 - **Des formats variés** : projets, présentations orales, vidéos, mind maps...
 - **Un droit à l'erreur** et un apprentissage basé sur l'expérimentation.
 
