@@ -1,6 +1,27 @@
 ---
 title: "Belgique - décennie 90"
-
+date: 2025-07-03
+lang: fr
+country: BE
+decade: 1990s
+slug: belgique-decennie-90
+permalink: /belgique/decennie-90/
+categories:
+  - belgique
+  - décennies
+  - 1990s
+tags:
+  - belgique
+  - décennie-1990
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, années 1990, Marche blanche, loi transparence 1994, réformes fédérales, médias privés]
+excerpt: "Dans les années 1990, la Belgique achève sa mutation fédérale, adopte la première loi sur la publicité de l’administration, et connaît des mobilisations citoyennes historiques comme la Marche blanche qui refondent la confiance démocratique." 
+description: "Panorama de la décennie 1990 : fédéralisation, modernisation sociale, pluralisme médiatique et montée de la participation populaire."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,11 +31,11 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
 
-![90s](https://dl.ouaisfi.eu/images/captures/90s.jpg)
+
 
 ## Éducation civique
 
