@@ -1,5 +1,31 @@
 ---
 title: "Centrales nucléaires belges – Anatomie d’un péril toléré"
+date: 2025-07-03
+lang: fr
+country: BE
+slug: centrales-nucleaires-belges
+permalink: /belgique/centrales-nucleaires-belges/
+categories:
+  - belgique
+  - dossiers
+  - nucleaire
+tags:
+  - belgique
+  - nucleaire
+  - tihange
+  - doel
+  - afcn
+  - electrabel
+  - sécurité-nucléaire
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Centrales nucléaires belges, Tihange, Doel, fissures, sabotage Doel 4, AFCN, culture du secret, sécurité nucléaire, Electrabel]
+excerpt: "Entre fissures, sabotages et prolongations controversées, le parc nucléaire belge cumule les signaux d’alerte qu’un État opaque préfère minimiser, exposant le pays à un risque systémique."
+description: "Radiographie critique du nucléaire belge : historique, incidents majeurs, culture du secret et enjeux sécuritaires qui soulignent une fausse maîtrise du risque."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,8 +35,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
+
 ---
+
 
 ## I. Carte d'identité du parc nucléaire belge
 
@@ -23,7 +51,7 @@ excerpt: ""
 
 ---
 
-![authentique](https://dl.ouaisfi.eu/images/captures/authentique.jpg)
+
 
 ## II. Chronologie critique (non exhaustive)
 
