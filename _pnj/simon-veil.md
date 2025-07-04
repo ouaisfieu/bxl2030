@@ -25,6 +25,7 @@ twitter:
   
 ---
 
+![Simon Veil](/assets/img/pnj/simon-veil.jpg)
 
 ## Le Père présumé
 
