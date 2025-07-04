@@ -1,5 +1,6 @@
 ---
 
+layout: single
 title: "Gisèle Icroit"
 slug: "gisele-icroit"
 role: "Porteuse de parole"
