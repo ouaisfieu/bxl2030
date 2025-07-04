@@ -16,6 +16,9 @@ seo:
   affiliation: "Collectif BXL2030"
 
 # ------------  IMAGE OG  ------------
+image: "/assets/img/pnj/gisele-icroit-og.jpg"    # ← 1ʳᵉ occurrence (chaîne)
+
+
 image:
   path: /assets/img/pnj/gisele-icroit-og.jpg   # 1200×630, sans https://
   alt: "Portrait de Gisèle Icroit"
