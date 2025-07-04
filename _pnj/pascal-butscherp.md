@@ -5,8 +5,8 @@ title:   "Pascal Butscherp"
 permalink: /pnj/pascal-butscherp/
 share:   true                              # ← active les balises OG/Twitter
 
-description: >
-  Écorché-vif toujours à cran ; porte en lui les cicatrices d’un harcèlement scolaire, professionnel et familial.
+excerpt: "« Mes parents sont des vrais connards… »"
+description: "Pour l'ambiance."
 tags:    [PNJ, BXL2030, street-life]
 
 image:  /assets/img/pnj/pascal-butscherp.jpg  # vignette réseaux
