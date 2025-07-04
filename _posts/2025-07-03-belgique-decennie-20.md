@@ -1,6 +1,27 @@
 ---
 title: "Belgique - décennie 20"
-
+date: 2025-07-03
+lang: fr
+country: BE
+decade: 2020s
+slug: belgique-decennie-20
+permalink: /belgique/decennie-20/
+categories:
+  - belgique
+  - décennies
+  - 2020s
+tags:
+  - belgique
+  - décennie-2020
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, années 2020, Covid-19, tronc commun, dialogue citoyen permanent, inflation, transparence sanitaire]
+excerpt: "Pendant les années 2020, la pandémie de Covid-19 teste la solidarité belge, l’éducation civique s’intensifie, les assemblées citoyennes se généralisent et l’ouverture des données publiques progresse, malgré des turbulences politiques et économiques." 
+description: "Analyse des mutations démocratiques belges dans les années 2020 : résilience sociale, élargissement de la participation et gouvernance transparente."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,9 +31,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
+
 
 
 ## Éducation civique
