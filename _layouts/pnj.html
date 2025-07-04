@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article class="bd-perso">
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.image %}
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    {% endif %}
+    <p class="subtitle">{{ page.role }}</p>
+  </header>
+
+  <section class="content">
+    {{ content }}
+  </section>
+
+  {% if page.tags contains "PNJ" %}
+    <nav class="pnj-nav">
+      <a href="/pnj/">← Tous les personnages</a>
+    </nav>
+  {% endif %}
+</article>
