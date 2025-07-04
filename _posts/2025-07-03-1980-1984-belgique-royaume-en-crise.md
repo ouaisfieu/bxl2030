@@ -1,5 +1,33 @@
 ---
 title: "Belgique 1980-1984: Dossier noir d'un royaume en crise"
+date: 2025-07-03
+lang: fr
+country: BE
+period: 1980-1984
+decade: 1980s
+slug: belgique-1980-1984-royaume-en-crise
+permalink: /belgique/1980-1984-royaume-en-crise/
+categories:
+  - belgique
+  - périodes
+  - 1980s
+tags:
+  - belgique
+  - 1980-1984
+  - crise-économique
+  - austérité
+  - désindustrialisation
+  - CCC
+  - tueurs-du-brabant
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, 1980-1984, Plan Global, désindustrialisation, CCC, Tueurs du Brabant, fédéralisme naissant, austérité, fracture sociale]
+excerpt: "Entre 1980 et 1984, la Belgique s’enlise dans la récession, la désindustrialisation et l’instabilité politique tandis que surgissent les premières violences radicales (CCC, Tueurs du Brabant), érodant la confiance collective." 
+description: "Analyse des ressorts économiques, sociaux et sécuritaires qui plongent la Belgique 1980-1984 dans une crise systémique : austérité, violences politiques et fracture communautaire."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -9,9 +37,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
 ---
+
 
 # ◼︎ Belgique 1980--1984 : Anatomie d'un pourrissement silencieux
 
