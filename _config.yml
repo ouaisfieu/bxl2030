@@ -66,6 +66,9 @@ defaults:
       layout: single
       classes: wide
       categories: [PNJ]   # pour SEO / regroupement
+      share: true                     # ← active les balises OG/Twitter
+      twitter:
+        card: "summary_large_image"   # ← aperçu XL sur X/Twitter
 
 
 paginate: 10
