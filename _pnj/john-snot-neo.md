@@ -23,7 +23,7 @@ twitter:
 
 ---
 
-![John Snot Néo](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/john-snot-neo)
+![John Snot Néo](https://ouaisfieu.github.io/bxl2030/assets/img/pnj/john-snot-neo.jpg)
 
 > « Il faut que tu respires padawan hobbit. »
 
