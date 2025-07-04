@@ -1,6 +1,32 @@
 ---
 title: "Belgique 2013–2020 : La grande désaffiliation silencieuse"
-
+date: 2025-07-03
+lang: fr
+country: BE
+period: 2013-2020
+decade: 2010s
+slug: belgique-2013-2020-desaffiliation-silencieuse
+permalink: /belgique/2013-2020-desaffiliation-silencieuse/
+categories:
+  - belgique
+  - périodes
+  - 2010s
+tags:
+  - belgique
+  - 2013-2020
+  - gouvernement-michel
+  - gilets-jaunes
+  - covid-19
+  - vide-institutionnel
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, 2013-2020, coalition suédoise, Gilets jaunes, 500 jours sans gouvernement, pandémie Covid-19, désaffiliation politique]
+excerpt: "Entre 2013 et 2020, la Belgique bascule dans une désaffiliation politique profonde : gouvernements minoritaires, Gilets jaunes, interminable formation fédérale et pandémie mettent à nu un État sous anesthésie."
+description: "Chronique d’une démocratie en veille : montée de la précarité, contestation diffuse et crise sanitaire révèlent la fragilité du fédéralisme belge contemporain."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,10 +36,10 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
 
- 
 ---
+
 
 
 
