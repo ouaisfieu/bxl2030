@@ -1,6 +1,27 @@
 ---
 title: "Belgique - décennie 80"
-
+date: 2025-07-03
+lang: fr
+country: BE
+decade: 1980s
+slug: belgique-decennie-80
+permalink: /belgique/decennie-80/
+categories:
+  - belgique
+  - décennies
+  - 1980s
+tags:
+  - belgique
+  - décennie-1980
+  - éducation-civique
+  - justice-sociale
+  - liberté-des-médias
+  - participation-citoyenne
+  - séparation-des-pouvoirs
+  - transparence
+keywords: [Belgique, années 1980, crise économique, fédéralisme en gestation, libéralisation audiovisuelle, grève 83-84]
+excerpt: "Les années 1980, marquées par la crise et la naissance du fédéralisme, voient la résistance de l’État-providence, l’arrivée de la télévision privée et des mobilisations citoyennes massives contre l’austérité et les euromissiles." 
+description: "Retour sur la Belgique des années 1980 : transition institutionnelle, défis sociaux et évolution du paysage médiatique."
 header:
   overlay_image: /assets/img/bxl-header.jpg
   overlay_filter: "0.3"
@@ -10,11 +31,13 @@ header:
   show_overlay_title: true
   show_header: true
 classes: wide
-excerpt: ""
+related: true
+
 
 ---
 
-![80s](https://dl.ouaisfi.eu/images/captures/80s.jpg)
+
+
 
 ## Éducation civique
 
