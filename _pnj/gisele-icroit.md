@@ -7,6 +7,8 @@ share: true                      # ← autorise les méta-tags et les boutons
 slug: "gisele-icroit"
 role: "Porteuse de parole"
 excerpt: "« Le cauchemar des profs, c’est quand l’école tue les rêves. »"
+description: "Pour l'ambiance."
+
 tags: [PNJ, BXL2030, citoyenneté]
 seo:
   type: "Person"            # schéma.org
