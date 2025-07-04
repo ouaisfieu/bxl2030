@@ -4,7 +4,7 @@ layout: single
 title: "Gisèle Icroit"
 slug: "gisele-icroit"
 role: "Porteuse de parole"
-excerpt: "Animatrice spontanée de débats de rue, Gisèle provoque la parole citoyenne sur les places bruxelloises."
+excerpt: "« Le cauchemar des profs, c’est quand l’école tue les rêves. »"
 image: "/assets/img/pnj/gisele-icroit.jpg"   # chemin depuis la racine du site
 tags: [PNJ, BXL2030, citoyenneté]
 seo:
@@ -13,6 +13,8 @@ seo:
   affiliation: "Collectif BXL2030"
   
 ---
+
+![Gisèle Icroit - Porteuse de parole]("/assets/img/pnj/gisele-icroit.jpg")
 
 > _« Le cauchemar des profs, c’est quand l’école tue les rêves. »_
 
