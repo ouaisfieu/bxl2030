@@ -16,7 +16,7 @@ seo:
   affiliation: "Collectif BXL2030"
 
 # ------------  IMAGE OG  ------------
-image: /assets/img/pnj/gisele-icroit-og.jpg   # ← VOTRE image OG (1200 × 630 px)
+image: /assets/img/pnj/gisele-icroit.jpg
 
 twitter:
   card: summary_large_image                   # aperçu XL sur X/Twitter
