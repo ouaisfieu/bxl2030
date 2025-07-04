@@ -1,6 +1,6 @@
 ---
 title: "Belgique - décennie 00"
-layout: post
+layout: single
 date: 2025-07-03
 lang: fr
 country: BE
