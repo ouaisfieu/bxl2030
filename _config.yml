@@ -29,6 +29,9 @@ collections:
     output: true       # génère des pages HTML pour chaque note
     permalink: /notes/:title/
 
+  pnj:
+    output: true          # génère une page HTML pour chaque fiche
+    permalink: /pnj/:slug/  # URL propre = /pnj/gisele-icroit/
 
 
 
@@ -55,6 +58,14 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
+
+  - scope:
+      path: ""
+      type: "pnj"
+    values:
+      layout: pnj         # layout dédié
+      categories: [PNJ]   # pour SEO / regroupement
+
 
 paginate: 10
 paginate_path: "/page:num/"
