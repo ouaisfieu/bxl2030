@@ -2,6 +2,8 @@
 
 layout: single
 title: "Gisèle Icroit"
+permalink: /pnj/gisele-icroit/
+share: true                      # ← autorise les méta-tags et les boutons
 slug: "gisele-icroit"
 role: "Porteuse de parole"
 excerpt: "« Le cauchemar des profs, c’est quand l’école tue les rêves. »"
