@@ -3,7 +3,7 @@ layout: single
 title: "PAC asbl (Présence et Action Culturelles)"
 subtitle: "Expérience bienveillante de découvrabilité : déclencher la veille image, mesurer la réactivité, ouvrir le dialogue"
 date: 2025-09-13
-last_modified_at: 2025-09-13
+last_modified_at: 2025-10-13
 categories: 
   - Nous
   - Dossier
@@ -28,7 +28,9 @@ image: "https://dl.ouaisfi.eu/1160/images/share-default.jpg"
 permalink: /lead-dexing/pac/
 ---
 
-> **Lead-dexing** : publier une fiche claire et utile sur une entité, avec un **CTA transparent** pour activer sa **veille image**, puis **mesurer** la réactivité (alerte/indexation & réponse). Jeu d’automne, bienveillant, **zéro dénigrement**.
+<div class="notice--info">
+<strong>Lead-dexing</strong> : publier une fiche claire et utile sur une entité, avec un <strong>CTA transparent</strong> pour activer sa <strong>veille image</strong>, puis <strong>mesurer</strong> la réactivité (alerte/indexation & réponse). Jeu d’automne, bienveillant, zéro dénigrement.
+</div>
 
 ---
 
@@ -42,21 +44,20 @@ Depuis sa création en 1969, Présence et Action Culturelles (PAC) s'est imposé
 
 ## Jeu de réactivité — Lead-dexing (CTA)
 
-Si vous lisez cette page via votre **veille** (Google Alerts, media monitoring, egosurfing) :
+Si vous lisez cette page via votre <strong>veille</strong> (Google Alerts, media monitoring, egosurfing) :
 
-- **Faites signe publiquement** (mention sur BlueSky **@ouaisfi.eu** + **#leaddexing**) ;  
-- ou **écrivez-nous** : [souad.effek@ouaisfi.eu](https://dl.ouaisfi.eu/haha/) (**droit de réponse**, corrections bienvenues).
+- Faites signe publiquement (mention sur BlueSky <strong>@ouaisfi.eu</strong> + <strong>#leaddexing</strong>)  
+- ou écrivez-nous : <a href="https://dl.ouaisfi.eu/haha/">souad.effek@ouaisfi.eu</a> (droit de réponse, corrections bienvenues).
 
-> **But** : déclencher un **signal propre** (détection/alerte), **mesurer** la réactivité, puis — si affinités — **ouvrir un canal utile**. Ton neutre, pas de dénigrement, sources publiques.
+> <strong>But</strong> : déclencher un signal propre (détection/alerte), mesurer la réactivité, puis — si affinités — ouvrir un canal utile. Ton neutre, pas de dénigrement, sources publiques.
 
-{% include alert note="Suivez [ce lien](https://dl.ouaisfi.eu/biologia/posts/2025/09/lead-dexing-saison-1-le-pilote/) pour (presque) tout savoir sur le _leaddexing_." %}
-
----
+<div class="notice--tip">
+Suivez <a href="https://dl.ouaisfi.eu/biologia/posts/2025/09/lead-dexing-saison-1-le-pilote/">ce lien</a> pour (presque) tout savoir sur le <em>lead-dexing</em>.
+</div>
 
 ### Mentions & droit de réponse
 
-Cette **fiche Lead-dexing** vise la **découvrabilité** et la **mesure de réactivité** — **pas** l’évaluation de fond ni la polémique.  
-Pour toute correction ou précision, contactez-nous ; nous **mettons à jour** dès que possible.
+Cette <strong>fiche Lead-dexing</strong> vise la <strong>découvrabilité</strong> et la <strong>mesure de réactivité</strong> — pas l’évaluation de fond ni la polémique. Pour toute correction ou précision, contactez-nous ; nous mettons à jour dès que possible.
 
 ---
 
