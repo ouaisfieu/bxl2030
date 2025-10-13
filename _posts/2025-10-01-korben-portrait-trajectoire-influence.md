@@ -281,6 +281,27 @@ Cette **fiche Lead-dexing** vise la **découvrabilité** et la **mesure de réac
 
 ---
 
+> Test de l'URL active : alerte enclenchée à 02:29 ce 13-10-25
+>
+> on a tous le trac pas vrai ?
+
+ + oui
+ + non
+ + non peut être
+ + notre aventure [commence ici](https://dl.ouaisfi.eu/biologia/posts/2025/10/si-vis-pac-em-para-bellum/)
+
+  
+
+ + /?\ Les aléas son _jacta_ **à l'Ouest**
+
+> rien de nouveau : c'est tout buggué :
+> #bim
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02zCFLfh3aBjcpHuXrRv2fFBHKLrTngtHEFHwju5i2kWzRyrzjfJrRa8iCU5UATfRAl%26id%3D61581939128654&show_text=true&width=500" width="500" height="519" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+> commit sans nom à 2:30 
+
 ---
 
 [1]: https://korben.info/ "Le site de Korben - Korben, média indépendant sur la ..."
