@@ -51,12 +51,7 @@ Indexation demandée :
 
 ### TEST
 
----
-A:
 
-<iframe src="https://bsky.app/profile/flexyflow.bsky.social/post/3lv75dldst225" width="90%" height="600" frameborder="0"></iframe>
-
-B: 
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:hat5ymp4qcn2evaloat45esz/app.bsky.feed.post/3lv75dldst225" data-bluesky-cid="bafyreigpsutd2kbbiibptnto5wo443crgnz6odi6hhxcvywfdl73ydijme" data-bluesky-embed-color-mode="dark"><p lang="fr"><br><br><a href="https://bsky.app/profile/did:plc:hat5ymp4qcn2evaloat45esz/post/3lv75dldst225?ref_src=embed">[image or embed]</a></p>&mdash; Flexyflow (<a href="https://bsky.app/profile/did:plc:hat5ymp4qcn2evaloat45esz?ref_src=embed">@flexyflow.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:hat5ymp4qcn2evaloat45esz/post/3lv75dldst225?ref_src=embed">30 juillet 2025 à 19:26</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
