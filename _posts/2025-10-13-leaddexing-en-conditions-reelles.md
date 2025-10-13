@@ -49,7 +49,22 @@ Indexation demandée :
 <p><strong>Post source :</strong> un lien neutre publié sur Bluesky, renvoyant vers une fiche publique d’acteur politique. L’objectif ? Observer combien de temps il faut avant que le sujet ne se manifeste, corrige, ou réagisse.</p>
 </blockquote>
 
-<iframe src="https://bsky.app/profile/ouaisfi.eu/post/3k2g4faj5ex26" width="100%" height="600" frameborder="0"></iframe>
+### TEST
+
+---
+A:
+
+<iframe src="https://bsky.app/profile/flexyflow.bsky.social/post/3lv75dldst225" width="90%" height="600" frameborder="0"></iframe>
+
+B: 
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:hat5ymp4qcn2evaloat45esz/app.bsky.feed.post/3lv75dldst225" data-bluesky-cid="bafyreigpsutd2kbbiibptnto5wo443crgnz6odi6hhxcvywfdl73ydijme" data-bluesky-embed-color-mode="dark"><p lang="fr"><br><br><a href="https://bsky.app/profile/did:plc:hat5ymp4qcn2evaloat45esz/post/3lv75dldst225?ref_src=embed">[image or embed]</a></p>&mdash; Flexyflow (<a href="https://bsky.app/profile/did:plc:hat5ymp4qcn2evaloat45esz?ref_src=embed">@flexyflow.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:hat5ymp4qcn2evaloat45esz/post/3lv75dldst225?ref_src=embed">30 juillet 2025 à 19:26</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+### RETEST
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:heiif3gh4cjqjas5cxeay5py/app.bsky.feed.post/3m2w7fq3pcs2z" data-bluesky-cid="bafyreieveuhidxifuvxwjgtqdj4t3prucgwchcsz56e7lhqlhivixi532e" data-bluesky-embed-color-mode="system"><p lang="fr">www.youtube.com/shorts/1_PxJ...
+
+#bimas + #bim = #lol ?<br><br><a href="https://bsky.app/profile/did:plc:heiif3gh4cjqjas5cxeay5py/post/3m2w7fq3pcs2z?ref_src=embed">[image or embed]</a></p>&mdash; 🟢 Ouaisfi·eu 🟣 (<a href="https://bsky.app/profile/did:plc:heiif3gh4cjqjas5cxeay5py?ref_src=embed">@ouaisfi.eu</a>) <a href="https://bsky.app/profile/did:plc:heiif3gh4cjqjas5cxeay5py/post/3m2w7fq3pcs2z?ref_src=embed">11 octobre 2025 à 14:40</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ---
 
@@ -81,7 +96,7 @@ Indexation demandée :
   width="100%"
   height="500"
   frameborder="0"
-  src="https://api.mapbox.com/styles/v1/mapbox/dark-v10.html?title=false&access_token=pk.eyJ1Ijoib3VhaXNmaWV1IiwiYSI6ImNsaGg0czl6YzA3M3gza2x2ZzJodWxma2IifQ.xxxxxxxxxxxxx">
+  src="https://umap.openstreetmap.fr/fr/map/flopgunz_1277248">
 </iframe>
 
 ---
@@ -96,7 +111,7 @@ Indexation demandée :
 <strong>+48h :</strong> Premier commentaire d’un membre concerné
 </div>
 
-<iframe src="https://dl.ouaisfi.eu/pdfs/rapport-signal.pdf#toolbar=1" width="100%" height="500"></iframe>
+<iframe src="https://dl.ouaisfi.eu/pdfs/berurier-noir.pdf#toolbar=1" width="90%" height="500"></iframe>
 
 ---
 
@@ -131,7 +146,7 @@ Indexation demandée :
 ## VII. Annexes
 
 ### PDF complet de l’expérience
-<iframe src="https://dl.ouaisfi.eu/pdfs/leaddexing-ia.pdf#toolbar=1" width="100%" height="600"></iframe>
+<iframe src="https://dl.ouaisfi.eu/pdfs/KitCitoyen%c2%b7ne.pdf#toolbar=1" width="90%" height="600"></iframe>
 
 ### Flux RSS des signaux observés
 <iframe src="https://dl.ouaisfi.eu/haha/" width="100%" height="300"></iframe>
