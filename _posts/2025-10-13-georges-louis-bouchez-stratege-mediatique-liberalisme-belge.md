@@ -301,3 +301,8 @@ Si tu veux, je peux te fournir **une version “maximale”** (toutes les critiq
 [40]: https://www.brusselstimes.com/701216/georges-louis-bouchez-the-man-who-wants-to-charm-everyone?utm_source=chatgpt.com "Georges-Louis Bouchez: The man who wants to charm everyone"
 [50]: https://www.lespecialiste.be/fr/actualites/georges-louis-bouchez-n-est-absolument-pas-fiable-assene-melissa-depraetere.html?utm_source=chatgpt.com "\"Georges-Louis Bouchez n'est absolument pas fiable\", assène ..."
  
+> C'est tout ?
+
+## FaceBöOK EN MIEUX
+
+Non, il y a une [APPLI](https://duckface-detector.vercel.app/)
