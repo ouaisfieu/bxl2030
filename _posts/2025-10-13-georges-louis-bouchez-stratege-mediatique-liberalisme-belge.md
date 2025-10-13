@@ -28,7 +28,7 @@ description: "Analyse complète du parcours et du style politique de Georges-Lou
 header:
   overlay_color: "#000"
   overlay_filter: 0.4
-  overlay_image: /assets/images/politique/georges-louis-bouchez-cover.jpg
+  overlay_image: "https://dl.ouaisfi.eu/images/fbem/bon-camarade.jpg"
   caption: "📸 Image illustrative — usage informatif, source : presse belge"
 
 # 🔎 SEO & Open Graph
@@ -36,7 +36,7 @@ seo:
   type: article
   name: "Georges-Louis Bouchez : portrait analytique et sourcé du président du MR"
   description: "Étude documentée du style et de la stratégie politique de Georges-Louis Bouchez — président du MR, figure controversée et médiatique du libéralisme belge."
-  image: /assets/images/politique/georges-louis-bouchez-cover.jpg
+  image: "https://dl.ouaisfi.eu/images/fbem/bon-camarade.jpg"
   author: "Collectif ouaisfi.eu"
   locale: fr_BE
   keywords: "Georges-Louis Bouchez, MR, Mouvement Réformateur, politique belge, communication politique, libéralisme, leadership, Belgique, stratégie médiatique"
@@ -48,14 +48,14 @@ twitter:
   creator: "@ouaisfi_eu"
   title: "Georges-Louis Bouchez : le stratège médiatique du libéralisme belge"
   description: "Analyse complète, sourcée et nuancée du président du MR : entre ascension, stratégie de communication et polémiques."
-  image: /assets/images/politique/georges-louis-bouchez-cover.jpg
+  image: "https://dl.ouaisfi.eu/images/fbem/bon-camarade.jpg"
 
 og:
   title: "Georges-Louis Bouchez : le stratège médiatique du libéralisme belge"
   description: "Portrait analytique et sourcé du président du MR — figure médiatique du libéralisme francophone en Belgique."
   type: article
   url: "https://ouaisfi.eu/posts/2025/10/georges-louis-bouchez-stratege-mediatique-liberalisme-belge/"
-  image: "https://ouaisfi.eu/assets/images/politique/georges-louis-bouchez-cover.jpg"
+  image: "https://dl.ouaisfi.eu/images/fbem/bon-camarade.jpg"
 
 # 🔗 Navigation interne
 sidebar:
@@ -66,7 +66,7 @@ structured_data:
   "@context": "https://schema.org"
   "@type": "NewsArticle"
   "headline": "Georges-Louis Bouchez : le stratège médiatique du libéralisme belge"
-  "image": "https://ouaisfi.eu/assets/images/politique/georges-louis-bouchez-cover.jpg"
+  "image": "https://dl.ouaisfi.eu/images/fbem/bon-camarade.jpg"
   "author": {
     "@type": "Organization",
     "name": "Collectif ouaisfi.eu"
