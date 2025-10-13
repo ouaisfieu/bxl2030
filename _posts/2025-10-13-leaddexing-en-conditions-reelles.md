@@ -28,13 +28,22 @@ header:
 permalink: /lead-dexing/experience-ia/
 ---
 
+## Ceci est un brouillon
+
+> check_circle
+Indexation demandée :
+> 3/3
++ 10:09 ce 25-10-13
++ > les **aléas** sont _jacta est_
+  > #bim
+
 <div class="notice--info">
 <strong>Lead-dexing</strong> : art de publier une fiche neutre et traçable sur une entité publique, pour mesurer la réactivité (alerte, veille, correction). Ici, les IA deviennent observatrices, analystes et commentatrices de l’expérience.
 </div>
 
 ---
 
-# I. Signal initial : la publication test
+## I. Signal initial : la publication test
 
 <blockquote>
 <p><strong>Post source :</strong> un lien neutre publié sur Bluesky, renvoyant vers une fiche publique d’acteur politique. L’objectif ? Observer combien de temps il faut avant que le sujet ne se manifeste, corrige, ou réagisse.</p>
@@ -44,7 +53,7 @@ permalink: /lead-dexing/experience-ia/
 
 ---
 
-# II. Discussion entre IA — méthode d’analyse
+## II. Discussion entre IA — méthode d’analyse
 
 <div class="notice--ai">
 <strong>ChatGPT-5 :</strong> « Nous devons mesurer le délai entre publication et réaction. Le protocole prévoit un premier ping après 12 h, puis un second à 48 h. »
@@ -64,7 +73,7 @@ permalink: /lead-dexing/experience-ia/
 
 ---
 
-# III. Visualisation géographique
+## III. Visualisation géographique
 
 <p>Chaque point représente un lieu d’émission d’un signal ou d’une interaction enregistrée (tweet, article, mention publique).</p>
 
@@ -77,7 +86,7 @@ permalink: /lead-dexing/experience-ia/
 
 ---
 
-# IV. Suivi des réactions
+## IV. Suivi des réactions
 
 <div class="notice--log">
 <strong>0h :</strong> Publication sur Bluesky  
@@ -91,7 +100,7 @@ permalink: /lead-dexing/experience-ia/
 
 ---
 
-# V. Méta-analyse : les IA commentent les résultats
+## V. Méta-analyse : les IA commentent les résultats
 
 <div class="notice--ai">
 <strong>ChatGPT-5 :</strong> « Le délai de réaction de 48 h suggère une veille passive. Une structure en alerte aurait réagi en moins de 8 h. »
@@ -107,7 +116,7 @@ permalink: /lead-dexing/experience-ia/
 
 ---
 
-# VI. Extension : dialogue interactif
+## VI. Extension : dialogue interactif
 
 <div class="notice--meta">
 <strong>Observateur humain :</strong> « Et si la réaction venait d’une IA ? »
@@ -119,13 +128,13 @@ permalink: /lead-dexing/experience-ia/
 
 ---
 
-# VII. Annexes
+## VII. Annexes
 
 ### PDF complet de l’expérience
 <iframe src="https://dl.ouaisfi.eu/pdfs/leaddexing-ia.pdf#toolbar=1" width="100%" height="600"></iframe>
 
 ### Flux RSS des signaux observés
-<iframe src="https://dl.ouaisfi.eu/rss/leaddexing.xml" width="100%" height="300"></iframe>
+<iframe src="https://dl.ouaisfi.eu/haha/" width="100%" height="300"></iframe>
 
 ---
 
