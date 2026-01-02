@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="sombre" data-typography="elegant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>LA RÉSERVE — Système de Détournement Administratif</title>
+    <meta name="description" content="Ce qui existe déjà mais n'a jamais été reconnu. ARG participatif.">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1a1a2e">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@400;500;700&family=Fira+Code&family=Syne:wght@400;700;800&family=VT323&family=Press+Start+2P&family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">LA RÉSERVE</div>
+            </div>
+            <nav class="sidebar-nav">
+                <div class="nav-section">
+                    <div class="nav-section-title">Navigation</div>
+                    <div class="nav-item active" data-view="dashboard"><span class="nav-icon">🏠</span>Tableau de bord</div>
+                    <div class="nav-item" data-view="create"><span class="nav-icon">✏️</span>Créer une action</div>
+                    <div class="nav-item" data-view="actions"><span class="nav-icon">📋</span>Mes actions<span class="badge" id="actionsCount">0</span></div>
+                    <div class="nav-item" data-view="files"><span class="nav-icon">📁</span>Fichiers</div>
+                </div>
+                <div class="nav-section">
+                    <div class="nav-section-title">Outils</div>
+                    <div class="nav-item" data-view="warroom"><span class="nav-icon">🎛️</span>War Room</div>
+                    <div class="nav-item" data-view="guide"><span class="nav-icon">📖</span>Guide</div>
+                </div>
+                <div class="nav-section">
+                    <div class="nav-section-title">Paramètres</div>
+                    <div class="nav-item" data-view="settings"><span class="nav-icon">⚙️</span>Préférences</div>
+                </div>
+            </nav>
+        </aside>
+
+        <!-- Main -->
+        <main class="main-content">
+            <header class="main-header">
+                <h1 class="header-title" id="viewTitle">Tableau de bord</h1>
+                <div class="header-actions">
+                    <button class="btn btn-ghost" id="themeToggle">🎨</button>
+                    <button class="btn btn-primary" id="newActionBtn">+ Nouvelle action</button>
+                </div>
+            </header>
+
+            <div class="content-area">
+                <!-- Dashboard -->
+                <div class="view active" id="view-dashboard">
+                    <div class="hero">
+                        <h1>Bienvenue dans La Réserve</h1>
+                        <p>« Ce qui existe déjà mais n'a jamais été reconnu »</p>
+                        <button class="btn btn-primary btn-lg" onclick="showView('create')">✏️ Créer ma première action</button>
+                    </div>
+                    <div class="stats-grid" id="statsGrid"></div>
+                    <div class="recent-list" id="recentList"></div>
+                </div>
+
+                <!-- Create -->
+                <div class="view" id="view-create">
+                    <div class="editor-layout">
+                        <div class="editor-panel">
+                            <div class="editor-tabs">
+                                <button class="tab active" data-tab="info">📋 Infos</button>
+                                <button class="tab" data-tab="content">📝 Contenu</button>
+                                <button class="tab" data-tab="recrues">👥 Recrues</button>
+                                <button class="tab" data-tab="timeline">📅 Timeline</button>
+                            </div>
+                            <div class="editor-body">
+                                <div class="tab-content active" id="tab-info">
+                                    <div class="form-group">
+                                        <label>Titre *</label>
+                                        <input type="text" id="actionTitle" class="form-input" placeholder="Ex: Opération Silence FOREM">
+                                    </div>
+                                    <div class="form-row">
+                                        <div class="form-group"><label>Pseudo</label><input type="text" id="actionPseudo" class="form-input"></div>
+                                        <div class="form-group"><label>Lieu</label><input type="text" id="actionLieu" class="form-input"></div>
+                                    </div>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label>Type</label>
+                                            <select id="actionType" class="form-input">
+                                                <option value="detournement">Détournement</option>
+                                                <option value="infiltration">Infiltration</option>
+                                                <option value="performance">Performance</option>
+                                                <option value="documentation">Documentation</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Statut</label>
+                                            <select id="actionStatut" class="form-input">
+                                                <option value="brouillon">🔘 Brouillon</option>
+                                                <option value="planifie">📅 Planifié</option>
+                                                <option value="en_cours">⚡ En cours</option>
+                                                <option value="complete">✅ Complété</option>
+                                                <option value="bascule">🌟 Basculé</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group"><label>Cible</label><input type="text" id="actionCible" class="form-input" placeholder="FOREM, VDAB..."></div>
+                                </div>
+                                <div class="tab-content" id="tab-content">
+                                    <div class="form-group">
+                                        <label>Description (Markdown)</label>
+                                        <div class="md-toolbar">
+                                            <button class="md-btn" data-md="bold">B</button>
+                                            <button class="md-btn" data-md="italic">I</button>
+                                            <button class="md-btn" data-md="heading">H</button>
+                                            <button class="md-btn" data-md="list">☰</button>
+                                            <button class="md-btn" data-md="link">🔗</button>
+                                        </div>
+                                        <textarea id="actionDescription" class="form-input md-editor" rows="10" placeholder="Décrivez votre action..."></textarea>
+                                    </div>
+                                    <div class="form-group"><label>Manifeste</label><textarea id="actionManifeste" class="form-input" rows="3" placeholder="Le message clé..."></textarea></div>
+                                </div>
+                                <div class="tab-content" id="tab-recrues">
+                                    <div class="flex-between"><span>Recrues (max 9)</span><button class="btn btn-primary btn-sm" id="addRecrueBtn">+ Ajouter</button></div>
+                                    <div class="list" id="recruesList"></div>
+                                </div>
+                                <div class="tab-content" id="tab-timeline">
+                                    <div class="flex-between"><span>Timeline</span><button class="btn btn-primary btn-sm" id="addEventBtn">+ Ajouter</button></div>
+                                    <div class="timeline" id="timelineList"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="preview-panel">
+                            <div class="preview-header"><span>👁️ Aperçu</span><button class="btn btn-ghost btn-sm" id="fullPreviewBtn">⤢</button></div>
+                            <div class="preview-frame"><iframe id="previewIframe"></iframe></div>
+                            <div class="preview-actions">
+                                <button class="btn btn-primary" id="saveBtn">💾 Sauvegarder</button>
+                                <button class="btn btn-secondary" id="exportBtn">📤 Exporter</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Actions -->
+                <div class="view" id="view-actions">
+                    <div class="toolbar"><input type="text" id="searchInput" class="form-input" placeholder="🔍 Rechercher..."></div>
+                    <div class="grid" id="actionsGrid"></div>
+                </div>
+
+                <!-- Files -->
+                <div class="view" id="view-files">
+                    <div class="grid-2">
+                        <div class="card"><h3>📥 Importer</h3><div class="file-grid" id="importGrid"></div></div>
+                        <div class="card"><h3>📤 Exporter</h3><div class="file-grid" id="exportGrid"></div></div>
+                    </div>
+                </div>
+
+                <!-- War Room -->
+                <div class="view" id="view-warroom">
+                    <div class="hero warroom-hero">
+                        <h1>🎛️ War Room</h1>
+                        <p>Centre de commandement tactique</p>
+                        <button class="btn btn-primary btn-lg" onclick="launchWarRoom()">⚡ Activer</button>
+                    </div>
+                    <div class="stats-grid warroom-stats" id="warroomStats"></div>
+                </div>
+
+                <!-- Guide -->
+                <div class="view" id="view-guide">
+                    <article class="guide" id="guideContent"></article>
+                </div>
+
+                <!-- Settings -->
+                <div class="view" id="view-settings">
+                    <div class="settings-grid">
+                        <div class="card"><h3>🎨 Thème</h3><div class="theme-grid" id="themeGrid"></div></div>
+                        <div class="card"><h3>✒️ Typographie</h3><div class="typo-grid" id="typoGrid"></div></div>
+                        <div class="card"><h3>💾 Données</h3>
+                            <button class="btn btn-secondary" onclick="exportAll()">📤 Exporter tout</button>
+                            <button class="btn btn-danger" onclick="clearAll()">🗑️ Effacer tout</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Mobile toggle -->
+    <button class="menu-toggle" id="menuToggle">☰</button>
+
+    <!-- Toast container -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- Modals -->
+    <div class="modal-overlay" id="recrueModal">
+        <div class="modal">
+            <div class="modal-header"><h3>👤 Ajouter une recrue</h3><button class="modal-close" onclick="closeModal('recrueModal')">×</button></div>
+            <div class="modal-body">
+                <div class="form-group"><label>Nom</label><input type="text" id="recrueName" class="form-input"></div>
+                <div class="form-group"><label>Type</label>
+                    <select id="recrueType" class="form-input">
+                        <option value="complice">🟣 Complice</option>
+                        <option value="figurant">🔵 Figurant·e</option>
+                        <option value="temoin">🟡 Témoin</option>
+                        <option value="expert">🟢 Expert·e</option>
+                    </select>
+                </div>
+                <div class="form-group"><label>Rôle</label><input type="text" id="recrueRole" class="form-input"></div>
+            </div>
+            <div class="modal-footer"><button class="btn btn-primary" onclick="saveRecrue()">Ajouter</button></div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="eventModal">
+        <div class="modal">
+            <div class="modal-header"><h3>📅 Ajouter un événement</h3><button class="modal-close" onclick="closeModal('eventModal')">×</button></div>
+            <div class="modal-body">
+                <div class="form-group"><label>Date</label><input type="date" id="eventDate" class="form-input"></div>
+                <div class="form-group"><label>Titre</label><input type="text" id="eventTitle" class="form-input"></div>
+                <div class="form-group"><label>Description</label><textarea id="eventDesc" class="form-input" rows="2"></textarea></div>
+            </div>
+            <div class="modal-footer"><button class="btn btn-primary" onclick="saveEvent()">Ajouter</button></div>
+        </div>
+    </div>
+
+    <!-- War Room Overlay -->
+    <div class="warroom-overlay" id="warroomOverlay"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
