@@ -3,6 +3,8 @@ title: "Malades de longue durée en Belgique : dossier complet sur la politique 
 description: "549.996 invalides en 2024, sanctions quadruplées, 100.000 retours au travail visés. Analyse complète des réformes Vandenbroucke et du gouvernement Arizona."
 date: 2026-01-30
 lastmod: 2026-01-30
+layout: single
+classes: wide
 draft: false
 weight: 1
 keywords:
@@ -29,6 +31,9 @@ featuredImage: ""
 toc: true
 comment: true
 ---
+
+
+
 
 La Belgique compte désormais **549.996 personnes en invalidité** au 31 décembre 2024, soit une augmentation de 4,46% en un an et un doublement depuis 2008. Face à cette explosion des chiffres, le ministre Frank Vandenbroucke (Vooruit) a déployé depuis 2021 une politique de réintégration en quatre vagues successives, désormais durcie par le gouvernement Arizona.
 
