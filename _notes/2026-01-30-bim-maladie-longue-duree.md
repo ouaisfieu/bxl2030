@@ -1,170 +1,169 @@
 ---
-title: "Convocation médecin-conseil mutuelle : vos droits en 2026"
-excerpt: "Vous avez reçu une convocation du médecin-conseil ? Voici tout ce que vous devez savoir sur vos droits, comment vous préparer, et que faire en cas de désaccord."
+title: "BIM et maladie longue durée : la double peine en 2026"
+excerpt: "2,4 millions de Belges sont BIM. Quand maladie longue durée et précarité se cumulent, les nouvelles réformes frappent doublement."
 date: 2026-01-30
 last_modified_at: 2026-01-30
 tags:
-  - médecin-conseil
-  - mutuelle
-  - droits
-  - convocation
-  - incapacité
+  - BIM
+  - intervention majorée
+  - précarité
+  - maladie longue durée
+  - INAMI
 toc: true
 toc_label: "Sommaire"
-toc_icon: "list"
 toc_sticky: true
 header:
-  overlay_color: "#2c5282"
+  overlay_color: "#c53030"
   overlay_filter: "0.5"
 ---
 
-Recevoir une convocation du médecin-conseil de votre mutuelle peut être stressant. Ce guide vous explique **vos droits**, comment **vous préparer**, et que faire **en cas de désaccord**.
+En Belgique, **2,4 millions de personnes** bénéficient de l'intervention majorée (BIM), soit **21% de la population**. Parmi elles, une proportion significative sont des malades de longue durée. Comment les réformes 2026 impactent-elles cette population déjà fragilisée ?
 
-## Qu'est-ce qu'une convocation du médecin-conseil ?
+## Qu'est-ce que le statut BIM ?
 
-Le médecin-conseil est un médecin employé par votre mutuelle. Sa mission est de :
-- Vérifier que vous êtes bien en incapacité de travail
-- Évaluer votre capacité à reprendre une activité
-- Vous orienter vers un trajet de réintégration si approprié
+Le statut BIM (Bénéficiaire de l'Intervention Majorée) permet :
+- Un remboursement plus élevé des soins de santé
+- Des tarifs préférentiels pour certains services
+- Une protection contre les frais médicaux excessifs
 
-### Quand pouvez-vous être convoqué ?
+### Qui peut être BIM ?
 
-Depuis 2023, des contacts sont **obligatoires** aux :
-- **4e mois** d'incapacité
-- **7e mois** d'incapacité
-- **11e mois** d'incapacité
+Depuis octobre 2024, le statut est attribué **automatiquement** aux :
+- Personnes isolées au chômage depuis plus de 3 mois
+- Personnes isolées en incapacité depuis plus de 3 mois
+- Bénéficiaires du revenu d'intégration (CPAS)
+- Personnes à faibles revenus (sous un plafond)
 
-Vous pouvez aussi être convoqué à tout moment si le médecin-conseil estime nécessaire de réévaluer votre situation.
+## L'explosion du nombre de BIM
 
-## Vos droits lors de la convocation
+| Période | Nombre de BIM | Part de la population |
+|---------|--------------|----------------------|
+| Années 2000 | 1,3 million | ~12% |
+| Juin 2020 | 2,0 millions | ~17% |
+| **Juin 2025** | **2,4 millions** | **21%** |
 
-### 1. Droit d'être accompagné
+Cette augmentation de **400.000 personnes** en 5 ans reflète la précarisation croissante de la société belge.
 
-Vous pouvez venir avec :
-- Un membre de votre famille
-- Un ami
-- Un représentant syndical
-- Une personne de confiance
+## BIM et maladie longue durée : le cercle vicieux
 
-**Conseil** : Prévenez la mutuelle à l'avance si vous souhaitez être accompagné.
+### Un risque accru de basculer en invalidité
 
-### 2. Droit au respect et à la dignité
+Les études de l'Agence Intermutualiste (AIM) et de l'INAMI révèlent une donnée alarmante :
 
-Le médecin-conseil doit :
-- Vous traiter avec respect
-- Vous examiner dans des conditions correctes
-- Vous expliquer clairement ses conclusions
+> Les BIM présentent un **risque accru de 68%** de voir leur incapacité se prolonger en invalidité.
 
-### 3. Droit d'accès au rapport
+Pourquoi ? Plusieurs facteurs :
+- Accès plus difficile aux soins préventifs malgré le remboursement
+- Conditions de travail plus pénibles dans les emplois précaires
+- Stress chronique lié à la précarité économique
+- Moindre accès aux soins de santé mentale
 
-Après la consultation, vous pouvez :
-- Demander une copie du rapport médical
-- Obtenir des explications sur les conclusions
-- Contester la décision si vous n'êtes pas d'accord
+### Les mêmes exigences de contrôle
 
-### 4. Droit de demander un report
-
-Si vous ne pouvez pas vous rendre à la convocation (hospitalisation, maladie aiguë...) :
-- Prévenez **immédiatement** par écrit
-- Fournissez un justificatif médical
-- Proposez une nouvelle date
-
-{% include figure image_path="/assets/images/convocation-droits.png" alt="Vos droits lors d'une convocation" caption="Résumé de vos droits face au médecin-conseil" %}
-
-## Comment vous préparer
-
-### Documents à apporter
-
-- ✅ Carte d'identité
-- ✅ Carte SIS / ISI+
-- ✅ Tous vos certificats médicaux récents
-- ✅ Résultats d'examens (scanner, IRM, prises de sang...)
-- ✅ Liste de vos médicaments actuels
-- ✅ Coordonnées de vos médecins traitants
-
-### Questions à anticiper
-
-Le médecin-conseil pourra vous demander :
-- Depuis quand êtes-vous malade ?
-- Quels sont vos symptômes actuels ?
-- Quels traitements suivez-vous ?
-- Avez-vous déjà tenté une reprise du travail ?
-- Comment se passe votre quotidien ?
-
-**Conseil** : Préparez un résumé écrit de votre situation médicale.
-
-## Que se passe-t-il après la convocation ?
-
-### Trois issues possibles
-
-| Décision | Conséquence |
-|----------|-------------|
-| **Maintien de l'incapacité** | Vous continuez à percevoir vos indemnités |
-| **Proposition de trajet de réintégration** | Discussion sur un retour progressif au travail |
-| **Fin de l'incapacité** | Arrêt des indemnités (peut être contesté) |
-
-### Si le médecin-conseil met fin à votre incapacité
-
-1. Vous recevez une notification écrite
-2. Vous disposez de **3 mois** pour contester
-3. La contestation se fait devant le **tribunal du travail**
-4. Pendant la procédure, les indemnités peuvent être suspendues
-
-## Comment contester une décision
-
-### Étape 1 : Recours interne
-
-Adressez un courrier recommandé à votre mutuelle exposant :
-- Les raisons de votre désaccord
-- Les éléments médicaux qui soutiennent votre position
-- Votre demande de réexamen
-
-### Étape 2 : Recours devant le tribunal du travail
-
-Si le recours interne échoue :
-- Délai : 3 mois à partir de la décision
-- Vous pouvez vous faire assister par un avocat ou votre syndicat
-- L'aide juridique est possible si vos revenus sont faibles
-
-### Organismes qui peuvent vous aider
-
-- **Votre syndicat** (FGTB, CSC, CGSLB) : assistance juridique gratuite pour les affiliés
-- **Bureau d'aide juridique** : avocats pro deo si vous êtes éligible
-- **Associations de patients** : soutien moral et informations
-- **Médiateur fédéral** : en cas de dysfonctionnement administratif
-
-## Ce qui change en 2026
-
-| Mesure | Impact sur les convocations |
-|--------|----------------------------|
-| Certificats limités à 3 mois | Plus de convocations pour renouvellement |
-| Sanction 10% pour non-coopération | Plus risqué de ne pas répondre |
-| Suspension totale si absence | Obligation absolue de se présenter ou justifier |
+Malgré cette vulnérabilité reconnue, les BIM sont soumis aux **mêmes exigences** que les autres malades :
+- Convocations obligatoires aux 4e, 7e et 11e mois
+- Mêmes sanctions en cas de non-coopération
+- Mêmes trajets de réintégration
 
 {% capture notice-warning %}
-**Nouveau depuis 2026** : L'absence non justifiée à une convocation entraîne la **suspension totale** de vos indemnités, pas seulement une réduction.
+**Aucune adaptation** des procédures n'est prévue pour tenir compte de la précarité des BIM.
 {% endcapture %}
 <div class="notice--warning">{{ notice-warning | markdownify }}</div>
 
-## Témoignage
+## Impact financier des sanctions sur les BIM
 
-> "J'ai été réellement choquée par les propos du médecin de la mutuelle. Elle m'a dit que son job était de me remettre au travail ! Aucune écoute ni empathie."
->
-> — Témoignage d'une patiente souffrant de dépression majeure
+Pour une personne BIM percevant 1.200€ d'indemnités (revenu typique) :
 
-Ce témoignage illustre que les convocations peuvent être vécues difficilement. **Vous avez le droit d'être traité avec respect.** Si ce n'est pas le cas, signalez-le.
+| Type de sanction | Montant perdu/mois | Impact sur budget |
+|------------------|-------------------|-------------------|
+| Sanction 10% | 120€ | Catastrophique |
+| Suspension totale | 1.200€ | Perte totale de revenus |
 
-## Ressources utiles
+Pour un ménage déjà au seuil de pauvreté, perdre 120€/mois peut signifier :
+- Ne plus pouvoir payer le loyer
+- Devoir choisir entre chauffage et alimentation
+- Renoncer à des soins de santé (même remboursés)
 
-- [INAMI - Le contrôle médical](https://www.inami.fgov.be/fr/themes/incapacite-de-travail/salaries-et-chomeurs/le-controle-medical)
-- [Ligue des usagers des services de santé (LUSS)](https://www.lfrss.be)
-- [Service de médiation fédéral](https://www.federaalombudsman.be)
+## Les obstacles spécifiques aux BIM
+
+### 1. Mobilité réduite
+
+Se rendre à une convocation coûte :
+- Transports en commun : 2-5€ aller-retour minimum
+- Essence si voiture : 10-20€ selon la distance
+- Temps d'absence : parfois une demi-journée
+
+Pour un BIM, ces coûts peuvent être prohibitifs.
+
+### 2. Barrières administratives
+
+- Difficulté à comprendre les courriers administratifs
+- Pas toujours accès à internet pour les démarches en ligne
+- Isolement social réduisant l'accès à l'aide
+
+### 3. Santé mentale fragilisée
+
+Les BIM présentent des taux plus élevés de :
+- Dépression
+- Anxiété
+- Troubles liés au stress chronique
+
+Or, 36,9% des invalidités sont liées à des troubles psychosociaux.
+
+## Ce que demandent les associations
+
+### Solidaris
+
+> "Générer du stress à l'aide d'un processus infantilisant et à caractère obligatoire ne peut qu'aggraver la santé des personnes concernées."
+
+### FGTB
+
+Demande des **adaptations** pour les publics vulnérables :
+- Délais plus longs pour répondre
+- Possibilité de consultations à domicile
+- Prise en compte de la situation socio-économique
+
+### Mutualité chrétienne
+
+> "Il y a un vrai risque de responsabiliser uniquement le patient alors que le patient est dans une situation où il entre en incapacité de travail parce qu'il est en situation de maladie."
+
+## Conseils pratiques pour les BIM
+
+### En cas de convocation
+
+1. **Répondez toujours**, même si vous ne pouvez pas vous déplacer
+2. **Demandez une aide financière** pour le transport si besoin
+3. **Faites-vous accompagner** par un service social ou syndical
+4. **Conservez tous les documents** (copies de courriers, certificats...)
+
+### En cas de difficultés financières
+
+- Contactez le **CPAS** de votre commune
+- Demandez une aide urgente si la sanction vous met en difficulté
+- Signalez votre situation à votre mutuelle
+
+### Ressources d'aide
+
+- **Service social de votre mutuelle** : premiers interlocuteurs
+- **CPAS** : aide sociale et accompagnement
+- **Syndicats** : défense de vos droits
+- **CAW (Centrum Algemeen Welzijnswerk)** : aide psychosociale en Flandre
+- **Planning familial / maisons médicales** : soins accessibles
+
+## Les chiffres qui interpellent
+
+| Indicateur | Valeur |
+|------------|--------|
+| BIM en Belgique | 2,4 millions (21% population) |
+| Risque accru d'invalidité pour BIM | +68% |
+| Suspensions d'indemnités en 2024 | 112 (dont 102 en Flandre) |
+| Invalides avec troubles psy | 36,9% |
 
 ---
 
 **Articles connexes** :
 - [Dossier complet : malades de longue durée en Belgique]({% link _posts/2026-01-30-malades-longue-duree-belgique-dossier-complet.md %})
-- [Réforme Vandenbroucke 2026 : ce qui change]({% link _posts/2026-01-30-reforme-vandenbroucke-2026.md %})
-- [BIM et maladie longue durée : double peine ?]({% link _posts/2026-01-30-bim-maladie-longue-duree.md %})
+- [Convocation médecin-conseil : vos droits]({% link _posts/2026-01-30-convocation-medecin-conseil-droits.md %})
+- [Sanctions malades longue durée : de 2,5% à 10%]({% link _posts/2026-01-30-sanctions-malades-longue-duree.md %})
 
-*Dernière mise à jour : 30 janvier 2026*
+*Sources : INAMI, Agence Intermutualiste (AIM), Solidaris, FGTB, Mutualité chrétienne*
