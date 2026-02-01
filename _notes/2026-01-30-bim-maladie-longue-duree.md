@@ -1,0 +1,170 @@
+---
+title: "Convocation médecin-conseil mutuelle : vos droits en 2026"
+excerpt: "Vous avez reçu une convocation du médecin-conseil ? Voici tout ce que vous devez savoir sur vos droits, comment vous préparer, et que faire en cas de désaccord."
+date: 2026-01-30
+last_modified_at: 2026-01-30
+tags:
+  - médecin-conseil
+  - mutuelle
+  - droits
+  - convocation
+  - incapacité
+toc: true
+toc_label: "Sommaire"
+toc_icon: "list"
+toc_sticky: true
+header:
+  overlay_color: "#2c5282"
+  overlay_filter: "0.5"
+---
+
+Recevoir une convocation du médecin-conseil de votre mutuelle peut être stressant. Ce guide vous explique **vos droits**, comment **vous préparer**, et que faire **en cas de désaccord**.
+
+## Qu'est-ce qu'une convocation du médecin-conseil ?
+
+Le médecin-conseil est un médecin employé par votre mutuelle. Sa mission est de :
+- Vérifier que vous êtes bien en incapacité de travail
+- Évaluer votre capacité à reprendre une activité
+- Vous orienter vers un trajet de réintégration si approprié
+
+### Quand pouvez-vous être convoqué ?
+
+Depuis 2023, des contacts sont **obligatoires** aux :
+- **4e mois** d'incapacité
+- **7e mois** d'incapacité
+- **11e mois** d'incapacité
+
+Vous pouvez aussi être convoqué à tout moment si le médecin-conseil estime nécessaire de réévaluer votre situation.
+
+## Vos droits lors de la convocation
+
+### 1. Droit d'être accompagné
+
+Vous pouvez venir avec :
+- Un membre de votre famille
+- Un ami
+- Un représentant syndical
+- Une personne de confiance
+
+**Conseil** : Prévenez la mutuelle à l'avance si vous souhaitez être accompagné.
+
+### 2. Droit au respect et à la dignité
+
+Le médecin-conseil doit :
+- Vous traiter avec respect
+- Vous examiner dans des conditions correctes
+- Vous expliquer clairement ses conclusions
+
+### 3. Droit d'accès au rapport
+
+Après la consultation, vous pouvez :
+- Demander une copie du rapport médical
+- Obtenir des explications sur les conclusions
+- Contester la décision si vous n'êtes pas d'accord
+
+### 4. Droit de demander un report
+
+Si vous ne pouvez pas vous rendre à la convocation (hospitalisation, maladie aiguë...) :
+- Prévenez **immédiatement** par écrit
+- Fournissez un justificatif médical
+- Proposez une nouvelle date
+
+{% include figure image_path="/assets/images/convocation-droits.png" alt="Vos droits lors d'une convocation" caption="Résumé de vos droits face au médecin-conseil" %}
+
+## Comment vous préparer
+
+### Documents à apporter
+
+- ✅ Carte d'identité
+- ✅ Carte SIS / ISI+
+- ✅ Tous vos certificats médicaux récents
+- ✅ Résultats d'examens (scanner, IRM, prises de sang...)
+- ✅ Liste de vos médicaments actuels
+- ✅ Coordonnées de vos médecins traitants
+
+### Questions à anticiper
+
+Le médecin-conseil pourra vous demander :
+- Depuis quand êtes-vous malade ?
+- Quels sont vos symptômes actuels ?
+- Quels traitements suivez-vous ?
+- Avez-vous déjà tenté une reprise du travail ?
+- Comment se passe votre quotidien ?
+
+**Conseil** : Préparez un résumé écrit de votre situation médicale.
+
+## Que se passe-t-il après la convocation ?
+
+### Trois issues possibles
+
+| Décision | Conséquence |
+|----------|-------------|
+| **Maintien de l'incapacité** | Vous continuez à percevoir vos indemnités |
+| **Proposition de trajet de réintégration** | Discussion sur un retour progressif au travail |
+| **Fin de l'incapacité** | Arrêt des indemnités (peut être contesté) |
+
+### Si le médecin-conseil met fin à votre incapacité
+
+1. Vous recevez une notification écrite
+2. Vous disposez de **3 mois** pour contester
+3. La contestation se fait devant le **tribunal du travail**
+4. Pendant la procédure, les indemnités peuvent être suspendues
+
+## Comment contester une décision
+
+### Étape 1 : Recours interne
+
+Adressez un courrier recommandé à votre mutuelle exposant :
+- Les raisons de votre désaccord
+- Les éléments médicaux qui soutiennent votre position
+- Votre demande de réexamen
+
+### Étape 2 : Recours devant le tribunal du travail
+
+Si le recours interne échoue :
+- Délai : 3 mois à partir de la décision
+- Vous pouvez vous faire assister par un avocat ou votre syndicat
+- L'aide juridique est possible si vos revenus sont faibles
+
+### Organismes qui peuvent vous aider
+
+- **Votre syndicat** (FGTB, CSC, CGSLB) : assistance juridique gratuite pour les affiliés
+- **Bureau d'aide juridique** : avocats pro deo si vous êtes éligible
+- **Associations de patients** : soutien moral et informations
+- **Médiateur fédéral** : en cas de dysfonctionnement administratif
+
+## Ce qui change en 2026
+
+| Mesure | Impact sur les convocations |
+|--------|----------------------------|
+| Certificats limités à 3 mois | Plus de convocations pour renouvellement |
+| Sanction 10% pour non-coopération | Plus risqué de ne pas répondre |
+| Suspension totale si absence | Obligation absolue de se présenter ou justifier |
+
+{% capture notice-warning %}
+**Nouveau depuis 2026** : L'absence non justifiée à une convocation entraîne la **suspension totale** de vos indemnités, pas seulement une réduction.
+{% endcapture %}
+<div class="notice--warning">{{ notice-warning | markdownify }}</div>
+
+## Témoignage
+
+> "J'ai été réellement choquée par les propos du médecin de la mutuelle. Elle m'a dit que son job était de me remettre au travail ! Aucune écoute ni empathie."
+>
+> — Témoignage d'une patiente souffrant de dépression majeure
+
+Ce témoignage illustre que les convocations peuvent être vécues difficilement. **Vous avez le droit d'être traité avec respect.** Si ce n'est pas le cas, signalez-le.
+
+## Ressources utiles
+
+- [INAMI - Le contrôle médical](https://www.inami.fgov.be/fr/themes/incapacite-de-travail/salaries-et-chomeurs/le-controle-medical)
+- [Ligue des usagers des services de santé (LUSS)](https://www.lfrss.be)
+- [Service de médiation fédéral](https://www.federaalombudsman.be)
+
+---
+
+**Articles connexes** :
+- [Dossier complet : malades de longue durée en Belgique]({% link _posts/2026-01-30-malades-longue-duree-belgique-dossier-complet.md %})
+- [Réforme Vandenbroucke 2026 : ce qui change]({% link _posts/2026-01-30-reforme-vandenbroucke-2026.md %})
+- [BIM et maladie longue durée : double peine ?]({% link _posts/2026-01-30-bim-maladie-longue-duree.md %})
+
+*Dernière mise à jour : 30 janvier 2026*
